@@ -73,6 +73,8 @@ function App() {
   return (
     <DivContainer className="App">
       <Header />
+      <br />
+      <br />
       <SearchSection>
         <SearchForm>
           <SearchInput

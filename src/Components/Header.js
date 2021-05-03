@@ -10,8 +10,6 @@ const Header = () => {
         Scores are not updated live. They're typically updated once daily.
         Scores were last updated at roughly 10:00 AM IST on May 3rd.
       </Headerh5>
-      <br />
-      <br />
     </HeaderImg>
   )
 }
