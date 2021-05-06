@@ -8,7 +8,7 @@ const Header = () => {
       <Image src={logo} alt='vikings' />
       <Headerh5>
         Scores are not updated live. They're typically updated once daily.
-        Scores were last updated at roughly 10:00 AM IST on May 5th.
+        Scores were last updated at roughly 10:00 AM IST on May 6th.
       </Headerh5>
     </HeaderImg>
   )
