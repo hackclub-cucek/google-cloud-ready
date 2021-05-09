@@ -20,26 +20,6 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Student_Name": "MUHAMMED LAFIN SHAN",
-    "Student_Email": "lafinshan@gmail.com",
-    "Institution": "Cochin University College of Engineering, Kuttanad",
-    "Enrolment Date & Time": "Fri Apr 02 2021 23:45:21 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d87becee-28ad-471f-a92c-66f1a969a164",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Ankit Vatsa",
-    "Student_Email": "ankitsushilvatsa21@gmail.com",
-    "Institution": "Cochin University College of Engineering, Kuttanad",
-    "Enrolment Date & Time": "Fri Apr 02 2021 23:51:30 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3a9aa1ca-c972-44d6-93b2-9c3d399fbf19",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
     "Student_Name": "Joel Sunny Varghese",
     "Student_Email": "joelsunny495@gmail.com",
     "Institution": "[Referred] Sree Buddha College of Engineering Pattoor",
@@ -86,7 +66,7 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 00:12:43 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/56ae8b51-61fe-4d05-a3cb-16ece9cf9cf9",
-    "Quests_Completed": 7,
+    "Quests_Completed": 8,
     "Skill_Badges_Completed": 7
   },
   {
@@ -98,16 +78,6 @@
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/43d4bb30-6f13-47bb-bc82-59b431649a79",
     "Quests_Completed": 9,
     "Skill_Badges_Completed": 7
-  },
-  {
-    "Student_Name": "MUHAMMED AYIMEN ABDUL LATHEEF",
-    "Student_Email": "aiymenlatheef03@gmail.com",
-    "Institution": "[Referred] Cochin University of Science and Technology, Kochi",
-    "Enrolment Date & Time": "Fri Apr 02 2021 23:54:36 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/5fe07268-c761-4a9b-8a1e-cc250f7265af",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
   },
   {
     "Student_Name": "Abhilasha Kumari",
@@ -170,26 +140,6 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Student_Name": "Souvik Acharya",
-    "Student_Email": "acharjosouvik@gmail.com",
-    "Institution": "[Referred] Bengal Institute Of Technology and Management",
-    "Enrolment Date & Time": "Sat Apr 03 2021 08:20:23 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/25b1e533-bd9b-4142-977a-0d060f7dff92",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Suvarnesh K M",
-    "Student_Email": "suvarnesh1729@gmail.com",
-    "Institution": "Cochin University College of Engineering, Kuttanad",
-    "Enrolment Date & Time": "Sat Apr 03 2021 08:25:59 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/38a9391f-7627-46c1-982f-641902afc862",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
     "Student_Name": "Aswinchandra",
     "Student_Email": "aswinchandra28@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
@@ -216,7 +166,7 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 09:19:16 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/4abd9942-6ce3-49f5-9838-4cbaf08b2fb8",
-    "Quests_Completed": 13,
+    "Quests_Completed": 14,
     "Skill_Badges_Completed": 5
   },
   {
@@ -276,8 +226,8 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 09:00:04 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ea56d764-51d6-499a-b706-ec02b9567f2b",
-    "Quests_Completed": 1,
-    "Skill_Badges_Completed": 1
+    "Quests_Completed": 2,
+    "Skill_Badges_Completed": 2
   },
   {
     "Student_Name": "Cicy K Agnes",
@@ -296,8 +246,8 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 10:40:17 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/25a9da17-62e7-4b1f-ad26-594c79ce4d01",
-    "Quests_Completed": 21,
-    "Skill_Badges_Completed": 11
+    "Quests_Completed": 25,
+    "Skill_Badges_Completed": 13
   },
   {
     "Student_Name": "Aravind E S",
@@ -366,8 +316,8 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 11:34:55 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/057afd12-6b34-4dfb-b973-60af5aa04c99",
-    "Quests_Completed": 2,
-    "Skill_Badges_Completed": 2
+    "Quests_Completed": 3,
+    "Skill_Badges_Completed": 3
   },
   {
     "Student_Name": "Tom George Grigory",
@@ -437,7 +387,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/072cdee5-cbe8-4472-aa20-446f9c62c2a7",
     "Quests_Completed": 10,
-    "Skill_Badges_Completed": 4
+    "Skill_Badges_Completed": 6
   },
   {
     "Student_Name": "Muhammed Risin",
@@ -626,7 +576,7 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 17:06:20 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ffba6902-e07e-4dd5-9242-0c39d96b7178",
-    "Quests_Completed": 4,
+    "Quests_Completed": 5,
     "Skill_Badges_Completed": 1
   },
   {
@@ -636,7 +586,7 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 17:35:32 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/079f59f7-7fb4-4f26-b186-aece3818bde1",
-    "Quests_Completed": 15,
+    "Quests_Completed": 17,
     "Skill_Badges_Completed": 8
   },
   {
@@ -686,7 +636,7 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 19:14:40 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/aa8c32cd-7177-4879-96de-af26155d9927",
-    "Quests_Completed": 8,
+    "Quests_Completed": 10,
     "Skill_Badges_Completed": 7
   },
   {
@@ -816,7 +766,7 @@
     "Enrolment Date & Time": "Sun Apr 04 2021 09:09:14 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6c42b56a-6a67-44ed-a055-06c4eb08c431",
-    "Quests_Completed": 22,
+    "Quests_Completed": 27,
     "Skill_Badges_Completed": 12
   },
   {
@@ -856,7 +806,7 @@
     "Enrolment Date & Time": "Sun Apr 04 2021 11:22:25 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/cc51f884-2377-4060-b0bf-51c545b3bf11",
-    "Quests_Completed": 0,
+    "Quests_Completed": 1,
     "Skill_Badges_Completed": 1
   },
   {
@@ -946,7 +896,7 @@
     "Enrolment Date & Time": "Sun Apr 04 2021 16:34:49 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/ce8218c0-9c5a-4ac5-a184-063db7948c03",
-    "Quests_Completed": 11,
+    "Quests_Completed": 12,
     "Skill_Badges_Completed": 4
   },
   {
@@ -966,7 +916,7 @@
     "Enrolment Date & Time": "Sun Apr 04 2021 17:30:15 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/89a81630-04bc-4ef4-bcc3-ac4ad3bda989",
-    "Quests_Completed": 2,
+    "Quests_Completed": 3,
     "Skill_Badges_Completed": 0
   },
   {
@@ -1026,7 +976,7 @@
     "Enrolment Date & Time": "Sun Apr 04 2021 18:49:00 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/2f85a725-34fd-4d02-9268-c390cbbaefad",
-    "Quests_Completed": 1,
+    "Quests_Completed": 2,
     "Skill_Badges_Completed": 0
   },
   {
@@ -1106,8 +1056,8 @@
     "Enrolment Date & Time": "Mon Apr 05 2021 18:41:20 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/46c1f99e-85d6-4ff6-855b-1146340cf310",
-    "Quests_Completed": 8,
-    "Skill_Badges_Completed": 6
+    "Quests_Completed": 11,
+    "Skill_Badges_Completed": 8
   },
   {
     "Student_Name": "Akhilesh K Saju",
@@ -1186,7 +1136,7 @@
     "Enrolment Date & Time": "Mon Apr 05 2021 21:14:12 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2c4aee71-00aa-4b2f-9f21-ee059be357e7",
-    "Quests_Completed": 10,
+    "Quests_Completed": 12,
     "Skill_Badges_Completed": 5
   },
   {
@@ -1217,7 +1167,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/9e7ed8f5-aa6e-4438-988e-a4979b980de7",
     "Quests_Completed": 3,
-    "Skill_Badges_Completed": 1
+    "Skill_Badges_Completed": 2
   },
   {
     "Student_Name": "Thejas K P",
@@ -1270,16 +1220,6 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Student_Name": "Souvik Acharya",
-    "Student_Email": "souvikacharya78@gmail.com",
-    "Institution": "[Referred] Bengal Institute Of Technology And Management",
-    "Enrolment Date & Time": "Sat Apr 03 2021 08:11:02 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/8d71a2df-a566-4c78-961f-c7d0520d7f66",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
     "Student_Name": "Shruti Santosh",
     "Student_Email": "shrutisantosh99@yahoo.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology, Kottayam",
@@ -1326,8 +1266,8 @@
     "Enrolment Date & Time": "Mon Apr 05 2021 23:25:29 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://run.qwiklabs.com/public_profiles/63773105-d846-4a60-a4e5-ae5fbfb10898",
-    "Quests_Completed": 9,
-    "Skill_Badges_Completed": 6
+    "Quests_Completed": 12,
+    "Skill_Badges_Completed": 8
   },
   {
     "Student_Name": "BINIL BIJU",
@@ -1336,8 +1276,8 @@
     "Enrolment Date & Time": "Mon Apr 05 2021 23:29:51 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b579bd20-c4ec-4413-bb46-490a0df4584e",
-    "Quests_Completed": 20,
-    "Skill_Badges_Completed": 11
+    "Quests_Completed": 30,
+    "Skill_Badges_Completed": 15
   },
   {
     "Student_Name": "ALLEN THOMAS",
@@ -1347,16 +1287,6 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f276efeb-f2fa-439d-95a7-033bd31530f6",
     "Quests_Completed": 1,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Ketan Kumar",
-    "Student_Email": "ketankumar@ug.cusat.ac.in",
-    "Institution": "Cochin University College of Engineering, Kuttanad",
-    "Enrolment Date & Time": "Mon Apr 05 2021 23:41:09 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0f9f3c3b-05ca-459e-8a58-8d488e268af7",
-    "Quests_Completed": 0,
     "Skill_Badges_Completed": 0
   },
   {
@@ -1516,8 +1446,8 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 10:09:15 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ff7ef788-9191-48ba-903a-27578c59cd5f",
-    "Quests_Completed": 2,
-    "Skill_Badges_Completed": 1
+    "Quests_Completed": 3,
+    "Skill_Badges_Completed": 2
   },
   {
     "Student_Name": "SUSAN BABY",
@@ -1587,7 +1517,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/8b1fff94-8c33-415b-bbcb-c057a01b2ec6",
     "Quests_Completed": 2,
-    "Skill_Badges_Completed": 1
+    "Skill_Badges_Completed": 2
   },
   {
     "Student_Name": "Jobin Biju",
@@ -1597,7 +1527,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f357070c-8fdf-491e-803d-6bd243d5e498",
     "Quests_Completed": 2,
-    "Skill_Badges_Completed": 0
+    "Skill_Badges_Completed": 1
   },
   {
     "Student_Name": "Arshak Rehiman",
@@ -1626,16 +1556,6 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 11:25:21 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7c2184bf-916c-4155-9aa4-038677ad132e",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Shamil Siddique",
-    "Student_Email": "shamilsdq.shamil@gmail.com",
-    "Institution": "Cochin University College of Engineering, Kuttanad",
-    "Enrolment Date & Time": "Tue Apr 06 2021 11:29:58 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/fdb311b8-3b5d-4352-b46e-1f7cf090c649",
     "Quests_Completed": 0,
     "Skill_Badges_Completed": 0
   },
@@ -1716,8 +1636,8 @@
     "Enrolment Date & Time": "Mon Apr 05 2021 21:53:15 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/a03cd53b-8d9f-4de4-a9b1-6426913d0ee3",
-    "Quests_Completed": 6,
-    "Skill_Badges_Completed": 6
+    "Quests_Completed": 7,
+    "Skill_Badges_Completed": 7
   },
   {
     "Student_Name": "Janus Jerom",
@@ -1836,7 +1756,7 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 13:39:10 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/bb8928ab-0456-4648-bfc6-0803a9a37a02",
-    "Quests_Completed": 12,
+    "Quests_Completed": 13,
     "Skill_Badges_Completed": 8
   },
   {
@@ -1936,8 +1856,8 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 14:58:19 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2dba3ec2-3ac0-4628-94d3-476833aa2335",
-    "Quests_Completed": 28,
-    "Skill_Badges_Completed": 11
+    "Quests_Completed": 30,
+    "Skill_Badges_Completed": 14
   },
   {
     "Student_Name": "Basil Pathrose",
@@ -1946,7 +1866,7 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 15:27:05 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/763c80db-e668-44c7-8ef8-623a840fcfd0",
-    "Quests_Completed": 5,
+    "Quests_Completed": 8,
     "Skill_Badges_Completed": 4
   },
   {
@@ -1966,16 +1886,6 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 15:30:18 GMT+0530 (India Standard Time)",
     "Enrolment Status": "Wrong Qwiklabs Public Profile URL",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Sarang r b",
-    "Student_Email": "sarangrb2001@gmail.com",
-    "Institution": "[Referred] Adishankara institute of engineering kalady",
-    "Enrolment Date & Time": "Tue Apr 06 2021 15:42:46 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c4672676-0be2-4de4-bb8c-9a4af92b9b29",
     "Quests_Completed": 0,
     "Skill_Badges_Completed": 0
   },
@@ -2006,8 +1916,8 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 16:22:40 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/da8126ec-9ead-45d3-ba6a-b5dceebcc473",
-    "Quests_Completed": 2,
-    "Skill_Badges_Completed": 2
+    "Quests_Completed": 3,
+    "Skill_Badges_Completed": 3
   },
   {
     "Student_Name": "Divya Suman",
@@ -2086,8 +1996,8 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 19:33:33 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/6d1120af-7571-46b8-9cff-3831ce6c461d",
-    "Quests_Completed": 4,
-    "Skill_Badges_Completed": 0
+    "Quests_Completed": 6,
+    "Skill_Badges_Completed": 5
   },
   {
     "Student_Name": "BHANU PRATAP SINGH",
@@ -2106,7 +2016,7 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 19:58:24 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/748b87d8-0618-49f5-84f7-3642066e1493",
-    "Quests_Completed": 21,
+    "Quests_Completed": 22,
     "Skill_Badges_Completed": 10
   },
   {
@@ -2126,8 +2036,8 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 18:42:20 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/a9af3362-0702-4c9f-b6f1-ca80b97abf5d",
-    "Quests_Completed": 23,
-    "Skill_Badges_Completed": 11
+    "Quests_Completed": 28,
+    "Skill_Badges_Completed": 15
   },
   {
     "Student_Name": "Albit Sunny",
@@ -2176,8 +2086,8 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 21:47:06 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/99b57028-3144-456c-ab5b-e57ef1f8e7a8",
-    "Quests_Completed": 9,
-    "Skill_Badges_Completed": 2
+    "Quests_Completed": 10,
+    "Skill_Badges_Completed": 3
   },
   {
     "Student_Name": "Manjima Prasad PJ",
@@ -2216,7 +2126,7 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 22:39:28 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1131946a-23fa-4015-bd76-85934602652e",
-    "Quests_Completed": 1,
+    "Quests_Completed": 2,
     "Skill_Badges_Completed": 0
   },
   {
@@ -2237,7 +2147,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d9e7b2b4-6ff6-4e5b-a734-2b6d33056031",
     "Quests_Completed": 8,
-    "Skill_Badges_Completed": 4
+    "Skill_Badges_Completed": 6
   },
   {
     "Student_Name": "Anirudh mv",
@@ -2406,7 +2316,7 @@
     "Enrolment Date & Time": "Tue Apr 06 2021 23:54:05 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/80ebd4b5-c3d0-4801-9548-e287e8f9aeae",
-    "Quests_Completed": 20,
+    "Quests_Completed": 21,
     "Skill_Badges_Completed": 10
   },
   {
@@ -2456,7 +2366,7 @@
     "Enrolment Date & Time": "Wed Apr 07 2021 01:10:38 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/38ce137d-ac87-4839-837c-3f53bb2c754c",
-    "Quests_Completed": 15,
+    "Quests_Completed": 19,
     "Skill_Badges_Completed": 8
   },
   {
@@ -2506,8 +2416,8 @@
     "Enrolment Date & Time": "Wed Apr 07 2021 09:10:42 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3bf9077f-e8f0-447f-ae20-af9815e869e0",
-    "Quests_Completed": 4,
-    "Skill_Badges_Completed": 2
+    "Quests_Completed": 5,
+    "Skill_Badges_Completed": 3
   },
   {
     "Student_Name": "U KRISHNANUNNI",
@@ -2540,16 +2450,6 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Student_Name": "Priyala Babu",
-    "Student_Email": "priyala2001@gmail.com",
-    "Institution": "[Referred] Viswajyothi College of Engineering and Technology",
-    "Enrolment Date & Time": "Wed Apr 07 2021 09:55:18 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/8d956523-d267-40af-8e64-f63c07d9cffd",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
     "Student_Name": "ARJUN V",
     "Student_Email": "arjunvaradiyil203@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
@@ -2576,8 +2476,8 @@
     "Enrolment Date & Time": "Wed Apr 07 2021 10:22:06 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/4bbf9eaf-ace2-4e07-8102-13fea6773a62",
-    "Quests_Completed": 11,
-    "Skill_Badges_Completed": 6
+    "Quests_Completed": 14,
+    "Skill_Badges_Completed": 8
   },
   {
     "Student_Name": "MUHAMMED NITHAL",
@@ -2596,8 +2496,8 @@
     "Enrolment Date & Time": "Wed Apr 07 2021 10:43:44 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6bff2c20-ba0e-4bd5-8761-7c43839bfb93",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
+    "Quests_Completed": 1,
+    "Skill_Badges_Completed": 4
   },
   {
     "Student_Name": "Irene Paul",
@@ -2700,24 +2600,14 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Student_Name": "Vishnu Suresh",
-    "Student_Email": "vishnusuresh19012000@gmail.com",
-    "Institution": "[Referred] Government Engineering College Idukki, Kerala",
-    "Enrolment Date & Time": "Wed Apr 07 2021 12:44:43 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/463be068-2ea3-4ed7-add3-dc9a736aa2be",
-    "Quests_Completed": 2,
-    "Skill_Badges_Completed": 2
-  },
-  {
     "Student_Name": "Alex Joseph",
     "Student_Email": "aj81563@gmail.com",
     "Institution": "[Referred] St. Joseph's College of Engineering and Technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 12:45:19 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/16cbaad8-4b68-46e1-8a8c-72c77cfa78cd",
-    "Quests_Completed": 29,
-    "Skill_Badges_Completed": 14
+    "Quests_Completed": 30,
+    "Skill_Badges_Completed": 15
   },
   {
     "Student_Name": "GAUTHAMI S",
@@ -2876,16 +2766,6 @@
     "Enrolment Date & Time": "Wed Apr 07 2021 17:09:58 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f3ffe0f5-dfbc-4618-9147-b68b363ecd0d",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Athira. P",
-    "Student_Email": "athirapaluthodi@gmail.com",
-    "Institution": "Cochin University College of Engineering, Kuttanad",
-    "Enrolment Date & Time": "Wed Apr 07 2021 17:24:04 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/7dd5242c-95d2-48a1-b192-73d3dd53072f",
     "Quests_Completed": 0,
     "Skill_Badges_Completed": 0
   },
@@ -3057,7 +2937,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/9c7194b3-32f3-45ea-94a9-e69f44da67d8",
     "Quests_Completed": 2,
-    "Skill_Badges_Completed": 0
+    "Skill_Badges_Completed": 1
   },
   {
     "Student_Name": "Aswin P Saji",
@@ -3136,7 +3016,7 @@
     "Enrolment Date & Time": "Wed Apr 07 2021 21:25:29 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/724f6b72-06e5-4781-8438-524f2c8c995e",
-    "Quests_Completed": 10,
+    "Quests_Completed": 11,
     "Skill_Badges_Completed": 7
   },
   {
@@ -3216,8 +3096,8 @@
     "Enrolment Date & Time": "Wed Apr 07 2021 09:28:59 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/1aea2871-7381-45ce-834d-ee78da593197",
-    "Quests_Completed": 4,
-    "Skill_Badges_Completed": 2
+    "Quests_Completed": 5,
+    "Skill_Badges_Completed": 3
   },
   {
     "Student_Name": "Refad anees k",
@@ -3266,16 +3146,6 @@
     "Enrolment Date & Time": "Thu Apr 08 2021 10:20:59 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/af1378f1-ebf2-4dea-8bca-eadc343af463",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Nevil Sugathan",
-    "Student_Email": "nevilpds@gmail.com",
-    "Institution": "[Referred] DCSMAT, Pullikkanam",
-    "Enrolment Date & Time": "Thu Apr 08 2021 10:44:08 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/28ff09b6-c8b0-459b-8341-d481b87edd06",
     "Quests_Completed": 0,
     "Skill_Badges_Completed": 0
   },
@@ -3426,7 +3296,7 @@
     "Enrolment Date & Time": "Sat Apr 03 2021 10:02:24 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/bdf1d039-8188-4405-ae8a-1e7cafbb7ea3",
-    "Quests_Completed": 8,
+    "Quests_Completed": 10,
     "Skill_Badges_Completed": 6
   },
   {
@@ -3446,7 +3316,7 @@
     "Enrolment Date & Time": "Thu Apr 08 2021 16:15:43 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d9f39df9-7072-4ce0-8b32-e576a6300917",
-    "Quests_Completed": 27,
+    "Quests_Completed": 29,
     "Skill_Badges_Completed": 12
   },
   {
@@ -3476,16 +3346,6 @@
     "Enrolment Date & Time": "Thu Apr 08 2021 16:28:33 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/cb534a42-1421-4ee0-bc9b-aa9c85810bc5",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
-    "Student_Name": "Shruti Pramod Kalamkar",
-    "Student_Email": "kalamkarshruti1999@gmail.com",
-    "Institution": "[Referred] Priyadarshini Institute of Engineering and Technology,Nagpur,Maharashtra",
-    "Enrolment Date & Time": "Thu Apr 08 2021 16:32:15 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/5cc10013-d78f-42c5-b2dc-25c04cf6f2e8",
     "Quests_Completed": 0,
     "Skill_Badges_Completed": 0
   },
@@ -3540,16 +3400,6 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Student_Name": "JHONNY JHONNY",
-    "Student_Email": "instagram.followers.gainer.10k@gmail.com",
-    "Institution": "Cochin University College of Engineering, Kuttanad",
-    "Enrolment Date & Time": "Thu Apr 08 2021 21:10:20 GMT+0530 (India Standard Time)",
-    "Enrolment Status": "All Good",
-    "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/dbdd0cc8-5bfb-47c8-9fa3-4b156231392c",
-    "Quests_Completed": 0,
-    "Skill_Badges_Completed": 0
-  },
-  {
     "Student_Name": "Abhishek P",
     "Student_Email": "abhishekmullackal@gmail.com",
     "Institution": "[Referred] Government Engineering College Palakkad",
@@ -3566,7 +3416,7 @@
     "Enrolment Date & Time": "Thu Apr 08 2021 21:35:06 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3f217ae1-c528-43b3-a677-b77a7285f06e",
-    "Quests_Completed": 1,
+    "Quests_Completed": 2,
     "Skill_Badges_Completed": 0
   },
   {
@@ -3647,7 +3497,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/8549347d-dde0-4761-af8f-046fb3f3ea91",
     "Quests_Completed": 5,
-    "Skill_Badges_Completed": 0
+    "Skill_Badges_Completed": 1
   },
   {
     "Student_Name": "Soyal Sunny",
@@ -3797,7 +3647,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/410fd268-3acd-47cf-8ee1-9f3eed8b8d34",
     "Quests_Completed": 1,
-    "Skill_Badges_Completed": 0
+    "Skill_Badges_Completed": 1
   },
   {
     "Student_Name": "Guruvanditha",
@@ -3856,7 +3706,7 @@
     "Enrolment Date & Time": "Fri Apr 09 2021 13:37:50 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6f539cdd-1244-432a-b0e3-c7d2cca94a4d",
-    "Quests_Completed": 6,
+    "Quests_Completed": 8,
     "Skill_Badges_Completed": 6
   },
   {
@@ -3956,7 +3806,7 @@
     "Enrolment Date & Time": "Fri Apr 09 2021 17:30:21 GMT+0530 (India Standard Time)",
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/972f97f4-cb0c-4564-a68c-24968fa04368",
-    "Quests_Completed": 9,
+    "Quests_Completed": 24,
     "Skill_Badges_Completed": 1
   },
   {
@@ -4017,7 +3867,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2d66b57f-9b96-4f6d-989c-3092467b1df1",
     "Quests_Completed": 1,
-    "Skill_Badges_Completed": 0
+    "Skill_Badges_Completed": 1
   },
   {
     "Student_Name": "Afnan A",
@@ -4077,7 +3927,7 @@
     "Enrolment Status": "All Good",
     "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/538da644-98d2-4c0d-9dde-d44797fa438b",
     "Quests_Completed": 1,
-    "Skill_Badges_Completed": 0
+    "Skill_Badges_Completed": 1
   },
   {
     "Student_Name": "Swathi Janardhanan p",
