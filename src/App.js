@@ -4,6 +4,7 @@ import { useState } from 'react';
 import CloudData from './Data/students.json';
 import ProgressBar from './Components/progressBar';
 import Header from './Components/Header';
+import Swag from './images/swag.png';
 
 
 function findPercentage(nQ, nS) {
@@ -70,6 +71,7 @@ var finished = []
 function App() {
   const [searchTerm, setSearchTerm] = useState("")
 
+
   return (
     <DivContainer className="App">
       <Header />
@@ -90,7 +92,7 @@ function App() {
         CloudData.filter(CloudDetail => {
           if (searchTerm == CloudDetail.Student_Email) {
             return CloudDetail
-          } 
+          }
         }).map((CloudDetail, index) => {
           finished = findPercentage(
             CloudDetail.Quests_Completed,
@@ -107,9 +109,9 @@ function App() {
               className="Card"
             >
               <CardDiv index={index}
-              style={{
-                backgroundColor: '#8E54E9'
-              }}
+                style={{
+                  backgroundColor: '#8E54E9'
+                }}
               >
                 <div className="user-info">
                   <CardH2>
@@ -146,11 +148,119 @@ function App() {
         })
       }
 
+      <PersonDiv>
+        <center><h1>Ultimate Milestone Achievers</h1></center>
+        <PersonTable>
+          <tr>
+            <PersonTh>Keshav Jain</PersonTh>
+            <PersonTh>Tinu Francis</PersonTh>
+            <PersonTh>Gladson T Lalu</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Shradha Shejil</PersonTh>
+            <PersonTh>Liya Elsa Benny</PersonTh>
+            <PersonTh>Rishab P Haridas</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Shakeer Hussain S</PersonTh>
+            <PersonTh>Dheeraj R</PersonTh>
+            <PersonTh>Binil Biju</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>shamjith saji</PersonTh>
+            <PersonTh>Akshay Joseph</PersonTh>
+
+            <PersonTh>Hrishikesh Mahadev Gawas</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Joseph Pious</PersonTh>
+            <PersonTh>Siddhanth Andani</PersonTh>
+            <PersonTh>Deepak Mohan Sawant</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Om Gupta</PersonTh>
+            <PersonTh>Neena Maria M Jojo</PersonTh>
+            <PersonTh>Aswin N Kaimal</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Suman Garai</PersonTh>
+            <PersonTh>Alan Joseph Shaji</PersonTh>
+            <PersonTh>Jinil Jiju</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>M J Gopikrishna</PersonTh>
+
+            <PersonTh>Joseph George</PersonTh>
+            <PersonTh>Alex Joseph</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Akshay Vinod</PersonTh>
+            <PersonTh>Pooja Agrawal</PersonTh>
+            <PersonTh>Ajay Mathew</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Santript Mehta</PersonTh>
+            <PersonTh>Munish Kumar</PersonTh>
+            <PersonTh>Mahshooq Zubair</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Gopika s</PersonTh>
+            <PersonTh>Safwan k</PersonTh>
+          </tr>
+        </PersonTable>
+      </PersonDiv>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <SwagDiv>
+        <h1>Ultimate Milestone: Complete 30 Quests & all 15 Skill Badges</h1>
+        <SwagImg src={Swag} alt='swag' />
+        <SwagH2>
+          <ol>
+            <li>T-Shirt</li>
+            <li>Laptop Bag</li>
+            <li>Sling Bag</li>
+            <li>Pen</li>
+            <li>Badge</li>
+            <li>Stickers</li>
+            <li>Career Readiness Program</li>
+          </ol>
+        </SwagH2>
+      </SwagDiv>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h4>
+        Thanks For Your Support and Dedication 💟 
+      </h4>
+      <br />
+      <br />
+      <br />
     </DivContainer>
 
 
   );
 }
+
+const SwagDiv = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+`;
+
+const SwagH2 = styled.h2`
+  margin-left: 7%;
+`;
+
+const SwagImg = styled.img`
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+`;
 
 const DivContainer = styled.div`
   max-width: 1100px;
@@ -158,6 +268,26 @@ const DivContainer = styled.div`
   padding: 0 20px;
 `;
 
+const PersonTable = styled.table`
+  width: 100%;
+  /* border: 1px solid white;
+  border-collapse: collapse; */
+`;
+const PersonTh = styled.th`
+  /* border: 1px solid white;
+  border-collapse: collapse; */
+  padding: 15px;
+  text-align: left;
+  text-transform: capitalize;
+`;
+const PersonDiv = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25px;
+  background-image: linear-gradient(#531CB3, #944BBB);
+`;
 
 const SearchSection = styled.section`
     height: 100px;
