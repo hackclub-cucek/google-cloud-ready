@@ -1,6 +1,6 @@
 [
   {
-    "Studen_Name": "HARSH",
+    "Student_Name": "HARSH",
     "Student_Email": "harshbhushan3@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 02 2021 23:36:24 GMT+0530 (India Standard Time)",
@@ -10,7 +10,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "Aryanand Arnav",
+    "Student_Name": "Aryanand Arnav",
     "Student_Email": "aryanandarnav13@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 02 2021 23:41:12 GMT+0530 (India Standard Time)",
@@ -20,7 +20,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Joel Sunny Varghese",
+    "Student_Name": "Joel Sunny Varghese",
     "Student_Email": "joelsunny495@gmail.com",
     "Institution": "[Referred] Sree Buddha College of Engineering Pattoor",
     "Enrolment Date & Time": "Fri Apr 02 2021 23:56:14 GMT+0530 (India Standard Time)",
@@ -30,7 +30,7 @@
     "Skill_Badges_Completed": 3
   },
   {
-    "Studen_Name": "Aakash Roy",
+    "Student_Name": "Aakash Roy",
     "Student_Email": "aakashroy208@gmail.com",
     "Institution": "[Referred] Nalanda Modern Public School",
     "Enrolment Date & Time": "Fri Apr 02 2021 23:56:18 GMT+0530 (India Standard Time)",
@@ -40,7 +40,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Anjana Manoj",
+    "Student_Name": "Anjana Manoj",
     "Student_Email": "anjanavkm08@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:04:26 GMT+0530 (India Standard Time)",
@@ -50,7 +50,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Keshav Jain",
+    "Student_Name": "Keshav Jain",
     "Student_Email": "keshav.jain2354@gmail.com",
     "Institution": "[Referred] Chitkara University, Punjab",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:09:57 GMT+0530 (India Standard Time)",
@@ -60,7 +60,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Keshav Jain",
+    "Student_Name": "Keshav Jain",
     "Student_Email": "keshav1205.cse18@chitkara.edu.in",
     "Institution": "[Referred] Chitkara University",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:12:43 GMT+0530 (India Standard Time)",
@@ -70,7 +70,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "Vyshnav K S",
+    "Student_Name": "Vyshnav K S",
     "Student_Email": "vyshnavks85@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:24:13 GMT+0530 (India Standard Time)",
@@ -80,7 +80,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "Abhilasha Kumari",
+    "Student_Name": "Abhilasha Kumari",
     "Student_Email": "abhilashavk4280@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:34:14 GMT+0530 (India Standard Time)",
@@ -90,7 +90,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ananthu Achary",
+    "Student_Name": "Ananthu Achary",
     "Student_Email": "acharyananthu@gmail.com",
     "Institution": "[Referred] Government Engineering College Wayanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:53:33 GMT+0530 (India Standard Time)",
@@ -100,7 +100,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "Ayushi Singh",
+    "Student_Name": "Ayushi Singh",
     "Student_Email": "ayushisingh1609@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:56:59 GMT+0530 (India Standard Time)",
@@ -110,7 +110,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "AABHANJALI SHEETAL",
+    "Student_Name": "AABHANJALI SHEETAL",
     "Student_Email": "aabhanjalisheetal123@ug.cusat.ac.in",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 01:04:52 GMT+0530 (India Standard Time)",
@@ -120,7 +120,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anandakrishnan RS",
+    "Student_Name": "Anandakrishnan RS",
     "Student_Email": "rsanandu1999@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 06:55:38 GMT+0530 (India Standard Time)",
@@ -130,7 +130,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Harikrishnan P R",
+    "Student_Name": "Harikrishnan P R",
     "Student_Email": "harikrishnanpr515@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 08:07:00 GMT+0530 (India Standard Time)",
@@ -140,7 +140,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Aswinchandra",
+    "Student_Name": "Aswinchandra",
     "Student_Email": "aswinchandra28@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 08:50:38 GMT+0530 (India Standard Time)",
@@ -150,7 +150,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Caina Rose Paul",
+    "Student_Name": "Caina Rose Paul",
     "Student_Email": "cainarosepaul@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 08:59:34 GMT+0530 (India Standard Time)",
@@ -160,7 +160,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Tinu Francis",
+    "Student_Name": "Tinu Francis",
     "Student_Email": "tinufrancis21@gmail.com",
     "Institution": "[Referred] Kristu Jyothi College of Management and Technology",
     "Enrolment Date & Time": "Sat Apr 03 2021 09:19:16 GMT+0530 (India Standard Time)",
@@ -170,7 +170,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Abdul Zaheer",
+    "Student_Name": "Abdul Zaheer",
     "Student_Email": "zaheerabdul46@gmail.com",
     "Institution": "[Referred] Velagapudi Ramakrishna siddhartha engineering college",
     "Enrolment Date & Time": "Sat Apr 03 2021 09:25:35 GMT+0530 (India Standard Time)",
@@ -180,7 +180,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Muhammed Naseeb EK",
+    "Student_Name": "Muhammed Naseeb EK",
     "Student_Email": "naseebanu777@gmail.com",
     "Institution": "[Referred] KMCT COLLEGE OF ENGINEERING CALICUT",
     "Enrolment Date & Time": "Sat Apr 03 2021 09:28:27 GMT+0530 (India Standard Time)",
@@ -190,7 +190,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Hariprasadh o k",
+    "Student_Name": "Hariprasadh o k",
     "Student_Email": "hariprasadhok@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 09:30:32 GMT+0530 (India Standard Time)",
@@ -200,7 +200,7 @@
     "Skill_Badges_Completed": 13
   },
   {
-    "Studen_Name": "Akhil B",
+    "Student_Name": "Akhil B",
     "Student_Email": "bijuakhil555@gmail.com",
     "Institution": "[Referred] Sree Buddha College of Engineering ,Pattoor",
     "Enrolment Date & Time": "Sat Apr 03 2021 09:53:08 GMT+0530 (India Standard Time)",
@@ -210,7 +210,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Ali Manhal",
+    "Student_Name": "Ali Manhal",
     "Student_Email": "alimanhal@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:24:46 GMT+0530 (India Standard Time)",
@@ -220,7 +220,7 @@
     "Skill_Badges_Completed": 7
   },
   {
-    "Studen_Name": "RIYA ROSE JAMES",
+    "Student_Name": "RIYA ROSE JAMES",
     "Student_Email": "riyarosejames10@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 09:00:04 GMT+0530 (India Standard Time)",
@@ -230,7 +230,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Cicy K Agnes",
+    "Student_Name": "Cicy K Agnes",
     "Student_Email": "cicykagnes@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:31:31 GMT+0530 (India Standard Time)",
@@ -240,7 +240,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Gladson T Lalu",
+    "Student_Name": "Gladson T Lalu",
     "Student_Email": "gladsonlalu2001@gmail.com",
     "Institution": "[Referred] College of engineering Aranmula",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:40:17 GMT+0530 (India Standard Time)",
@@ -250,7 +250,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Aravind E S",
+    "Student_Name": "Aravind E S",
     "Student_Email": "aravind.es.me@gmail.com",
     "Institution": "[Referred] Mary Matha Arts and Science College Mananthavady",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:54:19 GMT+0530 (India Standard Time)",
@@ -260,7 +260,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "AKSHAY A",
+    "Student_Name": "AKSHAY A",
     "Student_Email": "121akshayajay@gmail.com",
     "Institution": "[Referred] Sree Buddha College of Engineering, Pattoor",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:55:04 GMT+0530 (India Standard Time)",
@@ -270,7 +270,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Pratyush Raj",
+    "Student_Name": "Pratyush Raj",
     "Student_Email": "pratyushraj2f@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:55:42 GMT+0530 (India Standard Time)",
@@ -280,7 +280,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Abdul Adhil PK",
+    "Student_Name": "Abdul Adhil PK",
     "Student_Email": "1abduladhilpkpe3@gmail.com",
     "Institution": "[Referred] Government engineering College Thrissur",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:59:36 GMT+0530 (India Standard Time)",
@@ -290,7 +290,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Adithyaraj V P",
+    "Student_Name": "Adithyaraj V P",
     "Student_Email": "adithyarajvp@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 11:03:58 GMT+0530 (India Standard Time)",
@@ -300,7 +300,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Akshay Benny",
+    "Student_Name": "Akshay Benny",
     "Student_Email": "akshaybennyajh@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 11:10:07 GMT+0530 (India Standard Time)",
@@ -310,7 +310,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Abhinav Unnikrishnan",
+    "Student_Name": "Abhinav Unnikrishnan",
     "Student_Email": "abhinav200218@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering Kothamangalam",
     "Enrolment Date & Time": "Sat Apr 03 2021 11:34:55 GMT+0530 (India Standard Time)",
@@ -320,7 +320,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Tom George Grigory",
+    "Student_Name": "Tom George Grigory",
     "Student_Email": "grigorytomgeorge@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 11:51:51 GMT+0530 (India Standard Time)",
@@ -330,7 +330,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shivani Chauhan",
+    "Student_Name": "Shivani Chauhan",
     "Student_Email": "shivani.code404@gmail.com",
     "Institution": "[Referred] Maharaja Surajmal Institute of Technology",
     "Enrolment Date & Time": "Sat Apr 03 2021 11:52:25 GMT+0530 (India Standard Time)",
@@ -340,7 +340,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Salman Faris P P",
+    "Student_Name": "Salman Faris P P",
     "Student_Email": "salmanfarispp25@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 12:13:42 GMT+0530 (India Standard Time)",
@@ -350,7 +350,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "Nisha A",
+    "Student_Name": "Nisha A",
     "Student_Email": "nishagopalan64@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 12:15:02 GMT+0530 (India Standard Time)",
@@ -360,7 +360,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "Vipul Kumar",
+    "Student_Name": "Vipul Kumar",
     "Student_Email": "vkumarchaurasia98@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 12:40:06 GMT+0530 (India Standard Time)",
@@ -370,7 +370,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shradha Shejil",
+    "Student_Name": "Shradha Shejil",
     "Student_Email": "sssh1902@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 12:42:21 GMT+0530 (India Standard Time)",
@@ -380,7 +380,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Muhammed Risin",
+    "Student_Name": "Muhammed Risin",
     "Student_Email": "muhammedrisin9207@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:00:24 GMT+0530 (India Standard Time)",
@@ -390,7 +390,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sarath T S",
+    "Student_Name": "Sarath T S",
     "Student_Email": "iamsaraththarayil@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:03:09 GMT+0530 (India Standard Time)",
@@ -400,7 +400,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Athira",
+    "Student_Name": "Athira",
     "Student_Email": "athiratjthanaly83@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:07:19 GMT+0530 (India Standard Time)",
@@ -410,7 +410,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anjana P S",
+    "Student_Name": "Anjana P S",
     "Student_Email": "anjanaps989@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:16:31 GMT+0530 (India Standard Time)",
@@ -420,7 +420,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Sreya S Raj",
+    "Student_Name": "Sreya S Raj",
     "Student_Email": "sreyasraj06@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:18:48 GMT+0530 (India Standard Time)",
@@ -430,7 +430,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "MD SHADAN",
+    "Student_Name": "MD SHADAN",
     "Student_Email": "shadan.md88@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:20:29 GMT+0530 (India Standard Time)",
@@ -440,7 +440,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anupriya Asok",
+    "Student_Name": "Anupriya Asok",
     "Student_Email": "dpsvn.anup14073@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:38:40 GMT+0530 (India Standard Time)",
@@ -450,7 +450,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "Muhammed Ajmal T",
+    "Student_Name": "Muhammed Ajmal T",
     "Student_Email": "work@ajmalaju.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:45:12 GMT+0530 (India Standard Time)",
@@ -460,7 +460,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shine Joseph",
+    "Student_Name": "Shine Joseph",
     "Student_Email": "josephshine0016@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:33:59 GMT+0530 (India Standard Time)",
@@ -470,7 +470,7 @@
     "Skill_Badges_Completed": 3
   },
   {
-    "Studen_Name": "Lalan Kumar",
+    "Student_Name": "Lalan Kumar",
     "Student_Email": "lalank0012@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:48:22 GMT+0530 (India Standard Time)",
@@ -480,7 +480,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "syam suresh p c",
+    "Student_Name": "syam suresh p c",
     "Student_Email": "goedowent@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:52:58 GMT+0530 (India Standard Time)",
@@ -490,7 +490,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Krishna Priya T R",
+    "Student_Name": "Krishna Priya T R",
     "Student_Email": "ammuthaliyapurath@gmail.com",
     "Institution": "[Referred] College of Engineering Adoor",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:52:59 GMT+0530 (India Standard Time)",
@@ -500,7 +500,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ahammed Shaheedhudheen",
+    "Student_Name": "Ahammed Shaheedhudheen",
     "Student_Email": "shaheedhudheenpambalath@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:57:10 GMT+0530 (India Standard Time)",
@@ -510,7 +510,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nanda Unnimaya K",
+    "Student_Name": "Nanda Unnimaya K",
     "Student_Email": "nandaunnimaya2001@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 14:23:21 GMT+0530 (India Standard Time)",
@@ -520,7 +520,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Shivam Prakash",
+    "Student_Name": "Shivam Prakash",
     "Student_Email": "shivam12prakash@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 14:48:06 GMT+0530 (India Standard Time)",
@@ -530,7 +530,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Geethika P",
+    "Student_Name": "Geethika P",
     "Student_Email": "geethikageethu7999@gmail.com",
     "Institution": "[Referred] Mes college of engineering and technology",
     "Enrolment Date & Time": "Sat Apr 03 2021 15:31:31 GMT+0530 (India Standard Time)",
@@ -540,7 +540,7 @@
     "Skill_Badges_Completed": 3
   },
   {
-    "Studen_Name": "Saravanan Sellamuthu",
+    "Student_Name": "Saravanan Sellamuthu",
     "Student_Email": "saravanansellamuthu007@gmail.com",
     "Institution": "[Referred] Anna university Chennai",
     "Enrolment Date & Time": "Sat Apr 03 2021 15:43:47 GMT+0530 (India Standard Time)",
@@ -550,7 +550,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Liya Elsa Benny",
+    "Student_Name": "Liya Elsa Benny",
     "Student_Email": "liyaelsabenny@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 16:03:40 GMT+0530 (India Standard Time)",
@@ -560,7 +560,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Jerin Paul",
+    "Student_Name": "Jerin Paul",
     "Student_Email": "jerrymic2255@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 17:06:20 GMT+0530 (India Standard Time)",
@@ -570,7 +570,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "RISHAB P HARIDAS",
+    "Student_Name": "RISHAB P HARIDAS",
     "Student_Email": "rishabharidas010@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 17:35:32 GMT+0530 (India Standard Time)",
@@ -580,7 +580,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Krishna P M",
+    "Student_Name": "Krishna P M",
     "Student_Email": "krishna00murali@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 18:15:46 GMT+0530 (India Standard Time)",
@@ -590,7 +590,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Aadith S",
+    "Student_Name": "Aadith S",
     "Student_Email": "aadisudi1@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 18:20:45 GMT+0530 (India Standard Time)",
@@ -600,7 +600,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Misba Hunnisa TM",
+    "Student_Name": "Misba Hunnisa TM",
     "Student_Email": "misbahunnisatm@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 18:55:02 GMT+0530 (India Standard Time)",
@@ -610,7 +610,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Athira",
+    "Student_Name": "Athira",
     "Student_Email": "athiratj8398@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 19:15:50 GMT+0530 (India Standard Time)",
@@ -620,7 +620,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "JISHNU",
+    "Student_Name": "JISHNU",
     "Student_Email": "jishnubiju075@gmail.com",
     "Institution": "[Referred] Viswajyoti College of Engineering And Technology, Vazhakulam",
     "Enrolment Date & Time": "Sat Apr 03 2021 19:14:40 GMT+0530 (India Standard Time)",
@@ -630,7 +630,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Afras Aboobacker P",
+    "Student_Name": "Afras Aboobacker P",
     "Student_Email": "afrasvellora777@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 19:26:52 GMT+0530 (India Standard Time)",
@@ -640,7 +640,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Fenil Sunny",
+    "Student_Name": "Fenil Sunny",
     "Student_Email": "fenilsunny2@gmail.com",
     "Institution": "[Referred] Toc H Institute of Science and Technology",
     "Enrolment Date & Time": "Sat Apr 03 2021 19:40:20 GMT+0530 (India Standard Time)",
@@ -650,7 +650,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ADIL S",
+    "Student_Name": "ADIL S",
     "Student_Email": "shihabudeenpk22@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 19:55:58 GMT+0530 (India Standard Time)",
@@ -660,7 +660,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "KRISHNA DEV K",
+    "Student_Name": "KRISHNA DEV K",
     "Student_Email": "krishnadevk1729@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 19:56:07 GMT+0530 (India Standard Time)",
@@ -670,7 +670,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "ADIL S",
+    "Student_Name": "ADIL S",
     "Student_Email": "adils5075@gmail.com",
     "Institution": "[Referred] Government Engineering College, Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 19:58:38 GMT+0530 (India Standard Time)",
@@ -680,7 +680,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Farhana k",
+    "Student_Name": "Farhana k",
     "Student_Email": "getmefanu@gmail.com",
     "Institution": "[Referred] MES COLLEGE OF ENGINEERING AND TECHNOLOGY",
     "Enrolment Date & Time": "Sat Apr 03 2021 20:01:12 GMT+0530 (India Standard Time)",
@@ -690,7 +690,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "jewel jacob",
+    "Student_Name": "jewel jacob",
     "Student_Email": "jeweljacob90@gmail.com",
     "Institution": "[Referred] MGM COLLEGE OF ENGINEERING & TECHNOLOGY ,PAMPAKUDA",
     "Enrolment Date & Time": "Sat Apr 03 2021 22:11:19 GMT+0530 (India Standard Time)",
@@ -700,7 +700,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Delan VS",
+    "Student_Name": "Delan VS",
     "Student_Email": "delanveeyes@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sat Apr 03 2021 22:49:37 GMT+0530 (India Standard Time)",
@@ -710,7 +710,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Devika U",
+    "Student_Name": "Devika U",
     "Student_Email": "udevika8@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI KERALA",
     "Enrolment Date & Time": "Sat Apr 03 2021 23:40:55 GMT+0530 (India Standard Time)",
@@ -720,7 +720,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "Namratha Ponnam",
+    "Student_Name": "Namratha Ponnam",
     "Student_Email": "ponnamnamratha2000@gmail.com",
     "Institution": "[Referred] Vaagdevi College of Engineering",
     "Enrolment Date & Time": "Sun Apr 04 2021 00:54:12 GMT+0530 (India Standard Time)",
@@ -730,7 +730,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Agamjot Singh",
+    "Student_Name": "Agamjot Singh",
     "Student_Email": "agamjotsingh1801@gmail.com",
     "Institution": "[Referred] Jims Engineering Management Technical Campus",
     "Enrolment Date & Time": "Sun Apr 04 2021 01:31:44 GMT+0530 (India Standard Time)",
@@ -740,7 +740,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "Bonny B",
+    "Student_Name": "Bonny B",
     "Student_Email": "bonnyb2001007@gmail.com",
     "Institution": "[Referred] Government Engineering College , Palakkad",
     "Enrolment Date & Time": "Sun Apr 04 2021 08:28:26 GMT+0530 (India Standard Time)",
@@ -750,7 +750,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shakeer Hussain S",
+    "Student_Name": "Shakeer Hussain S",
     "Student_Email": "shakeer.hms@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki, Painav",
     "Enrolment Date & Time": "Sun Apr 04 2021 09:09:14 GMT+0530 (India Standard Time)",
@@ -760,7 +760,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "DHEERAJ R",
+    "Student_Name": "DHEERAJ R",
     "Student_Email": "rockzleo4@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Sun Apr 04 2021 10:25:01 GMT+0530 (India Standard Time)",
@@ -770,7 +770,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "AKSHAY AN",
+    "Student_Name": "AKSHAY AN",
     "Student_Email": "akshayajikumar10@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sun Apr 04 2021 10:41:17 GMT+0530 (India Standard Time)",
@@ -780,7 +780,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Pratik Mukharu Raut",
+    "Student_Name": "Pratik Mukharu Raut",
     "Student_Email": "pratikmraut9999@gmail.com",
     "Institution": "[Referred] Walchand College of Engineering, Sangli",
     "Enrolment Date & Time": "Sat Apr 03 2021 00:56:35 GMT+0530 (India Standard Time)",
@@ -790,7 +790,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Hafis C P",
+    "Student_Name": "Hafis C P",
     "Student_Email": "cphafis3@gmail.com",
     "Institution": "[Referred] College of Engineering Vadakara",
     "Enrolment Date & Time": "Sun Apr 04 2021 11:22:25 GMT+0530 (India Standard Time)",
@@ -800,7 +800,7 @@
     "Skill_Badges_Completed": 6
   },
   {
-    "Studen_Name": "Athul Cp",
+    "Student_Name": "Athul Cp",
     "Student_Email": "athulcp003@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 20:49:00 GMT+0530 (India Standard Time)",
@@ -810,7 +810,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Aswaghosh S",
+    "Student_Name": "Aswaghosh S",
     "Student_Email": "aswaghosh25@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sun Apr 04 2021 13:32:47 GMT+0530 (India Standard Time)",
@@ -820,7 +820,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Thaseen Nazar",
+    "Student_Name": "Thaseen Nazar",
     "Student_Email": "thaseen.nazar@gmail.com",
     "Institution": "[Referred] Sree Buddha College Of Engineering , Pattoor",
     "Enrolment Date & Time": "Sun Apr 04 2021 14:14:29 GMT+0530 (India Standard Time)",
@@ -830,7 +830,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Neeraja Rajan",
+    "Student_Name": "Neeraja Rajan",
     "Student_Email": "neerajarajan19@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sun Apr 04 2021 14:16:39 GMT+0530 (India Standard Time)",
@@ -840,7 +840,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Abhishek S",
+    "Student_Name": "Abhishek S",
     "Student_Email": "abhix3010@gmail.com",
     "Institution": "[Referred] Sree Buddha College of Engineering Pattoor",
     "Enrolment Date & Time": "Sun Apr 04 2021 14:35:58 GMT+0530 (India Standard Time)",
@@ -850,7 +850,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ananthu A",
+    "Student_Name": "Ananthu A",
     "Student_Email": "ananthuakt@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sun Apr 04 2021 15:57:32 GMT+0530 (India Standard Time)",
@@ -860,7 +860,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ahamed Favas",
+    "Student_Name": "Ahamed Favas",
     "Student_Email": "ahamedfavasedanatt@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sun Apr 04 2021 16:14:02 GMT+0530 (India Standard Time)",
@@ -870,7 +870,7 @@
     "Skill_Badges_Completed": 13
   },
   {
-    "Studen_Name": "Arjun J",
+    "Student_Name": "Arjun J",
     "Student_Email": "arjun628272@gmail.com",
     "Institution": "[Referred] College of Engineering, Chengannur",
     "Enrolment Date & Time": "Sun Apr 04 2021 16:25:07 GMT+0530 (India Standard Time)",
@@ -880,7 +880,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sona Simon",
+    "Student_Name": "Sona Simon",
     "Student_Email": "sonasimon20000@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Sun Apr 04 2021 16:34:49 GMT+0530 (India Standard Time)",
@@ -890,7 +890,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "Amitesh Patnaik",
+    "Student_Name": "Amitesh Patnaik",
     "Student_Email": "amitesh0303@gmail.com",
     "Institution": "[Referred] National institute of science and technology",
     "Enrolment Date & Time": "Sun Apr 04 2021 16:59:00 GMT+0530 (India Standard Time)",
@@ -900,7 +900,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "VARSHA V T",
+    "Student_Name": "VARSHA V T",
     "Student_Email": "meravcraft@gmail.com",
     "Institution": "[Referred] Govt engineering college idukki",
     "Enrolment Date & Time": "Sun Apr 04 2021 17:30:15 GMT+0530 (India Standard Time)",
@@ -910,7 +910,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Alwin Joseph",
+    "Student_Name": "Alwin Joseph",
     "Student_Email": "alwinjoseph48@gmail.com",
     "Institution": "[Referred] Government Engineering College Palakkad",
     "Enrolment Date & Time": "Fri Apr 02 2021 22:37:02 GMT+0530 (India Standard Time)",
@@ -920,7 +920,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Alwin Joseph",
+    "Student_Name": "Alwin Joseph",
     "Student_Email": "alwinj1908@gmail.com",
     "Institution": "[Referred] Government Engineering College Palakkad",
     "Enrolment Date & Time": "Sun Apr 04 2021 18:15:26 GMT+0530 (India Standard Time)",
@@ -930,7 +930,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "priyanshu jain",
+    "Student_Name": "priyanshu jain",
     "Student_Email": "jainpriyanshu341@gmail.com",
     "Institution": "[Referred] Walchand Institute of technology solapur",
     "Enrolment Date & Time": "Sun Apr 04 2021 18:15:31 GMT+0530 (India Standard Time)",
@@ -940,7 +940,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "AVINASH KUMAR",
+    "Student_Name": "AVINASH KUMAR",
     "Student_Email": "avinas00@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sun Apr 04 2021 18:42:11 GMT+0530 (India Standard Time)",
@@ -950,7 +950,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "SARANG S",
+    "Student_Name": "SARANG S",
     "Student_Email": "sarangsvkm@gmail.com",
     "Institution": "[Referred] MAHAGURU INSTITUTE OF TECHNOLOGY",
     "Enrolment Date & Time": "Sun Apr 04 2021 18:46:39 GMT+0530 (India Standard Time)",
@@ -960,7 +960,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Jayaraj R",
+    "Student_Name": "Jayaraj R",
     "Student_Email": "jayarajr69@gmail.com",
     "Institution": "[Referred] SREE BUDHA COLLEGE OF ENGINEERING,PATTOOR",
     "Enrolment Date & Time": "Sun Apr 04 2021 18:49:00 GMT+0530 (India Standard Time)",
@@ -970,7 +970,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Bhanu Prakash",
+    "Student_Name": "Bhanu Prakash",
     "Student_Email": "bhanuprksh05@gmail.com",
     "Institution": "[Referred] Chandigarh University",
     "Enrolment Date & Time": "Sun Apr 04 2021 18:54:45 GMT+0530 (India Standard Time)",
@@ -980,7 +980,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Hitesh Sukhwani",
+    "Student_Name": "Hitesh Sukhwani",
     "Student_Email": "hiteshsukhwani29@gmail.com",
     "Institution": "[Referred] Bharati Vidyapeeth Deemed University College Of Engineering, Pune",
     "Enrolment Date & Time": "Mon Apr 05 2021 17:54:14 GMT+0530 (India Standard Time)",
@@ -990,7 +990,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Aarathy U.Wilson",
+    "Student_Name": "Aarathy U.Wilson",
     "Student_Email": "arathiuwilson@gmail.com",
     "Institution": "[Referred] Government engineering college sreekrishnapuram palakkad",
     "Enrolment Date & Time": "Sun Apr 04 2021 11:22:50 GMT+0530 (India Standard Time)",
@@ -1000,7 +1000,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "ANIKET PRASAD",
+    "Student_Name": "ANIKET PRASAD",
     "Student_Email": "aniket110300@gmail.com",
     "Institution": "[Referred] GITA, Bhubaneswar",
     "Enrolment Date & Time": "Mon Apr 05 2021 18:13:58 GMT+0530 (India Standard Time)",
@@ -1010,7 +1010,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Avinash Agarwal",
+    "Student_Name": "Avinash Agarwal",
     "Student_Email": "avinash12261999@gmail.com",
     "Institution": "[Referred] GIET UNIVERSITY , GUNUPUR , RAYAGADA",
     "Enrolment Date & Time": "Mon Apr 05 2021 18:18:47 GMT+0530 (India Standard Time)",
@@ -1020,7 +1020,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Abdirahman Issa",
+    "Student_Name": "Abdirahman Issa",
     "Student_Email": "mr.abdiessa@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 18:20:13 GMT+0530 (India Standard Time)",
@@ -1030,7 +1030,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Amit Shinde",
+    "Student_Name": "Amit Shinde",
     "Student_Email": "devilamitshinde@gmail.com",
     "Institution": "[Referred] Sinhgad Institutes of Technology",
     "Enrolment Date & Time": "Mon Apr 05 2021 18:41:20 GMT+0530 (India Standard Time)",
@@ -1040,7 +1040,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Akhilesh K Saju",
+    "Student_Name": "Akhilesh K Saju",
     "Student_Email": "koottalaakhilesh22@gmail.com",
     "Institution": "[Referred] government engineering college idukki",
     "Enrolment Date & Time": "Mon Apr 05 2021 19:56:21 GMT+0530 (India Standard Time)",
@@ -1050,7 +1050,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Faizan Sayeed",
+    "Student_Name": "Faizan Sayeed",
     "Student_Email": "fk012345678901@gmail.com",
     "Institution": "[Referred] GANDHI INSTITUTE FOR TECHNOLOGICAL ADVANCEMENT",
     "Enrolment Date & Time": "Mon Apr 05 2021 20:12:05 GMT+0530 (India Standard Time)",
@@ -1060,7 +1060,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "Athira Dharman",
+    "Student_Name": "Athira Dharman",
     "Student_Email": "athiradharman9@gmail.com",
     "Institution": "[Referred] Government Engineering College Sreekrishnapuram",
     "Enrolment Date & Time": "Mon Apr 05 2021 20:17:54 GMT+0530 (India Standard Time)",
@@ -1070,7 +1070,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "MADHUKAR KUMAR",
+    "Student_Name": "MADHUKAR KUMAR",
     "Student_Email": "kmadhukar353@gmail.com",
     "Institution": "[Referred] GANDHI INSTITUTE FOR TECHNOOGICAL ADVANCEMENT",
     "Enrolment Date & Time": "Mon Apr 05 2021 20:41:00 GMT+0530 (India Standard Time)",
@@ -1080,7 +1080,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "Aniket",
+    "Student_Name": "Aniket",
     "Student_Email": "chowkbajrang@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:02:23 GMT+0530 (India Standard Time)",
@@ -1090,7 +1090,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Adal Adwaid Vikas",
+    "Student_Name": "Adal Adwaid Vikas",
     "Student_Email": "adaladwaidvikas729@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:12:11 GMT+0530 (India Standard Time)",
@@ -1100,7 +1100,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ANAS DAVOOD TK",
+    "Student_Name": "ANAS DAVOOD TK",
     "Student_Email": "anasdavoodtk1@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:12:26 GMT+0530 (India Standard Time)",
@@ -1110,7 +1110,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Ashutosh Kumar",
+    "Student_Name": "Ashutosh Kumar",
     "Student_Email": "ashutosh24092000@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:14:12 GMT+0530 (India Standard Time)",
@@ -1120,7 +1120,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Misba Asif Sayyad",
+    "Student_Name": "Misba Asif Sayyad",
     "Student_Email": "sayyadmisba22@gmail.com",
     "Institution": "[Referred] Jayawantrao Sawant Polytechnic",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:19:38 GMT+0530 (India Standard Time)",
@@ -1130,7 +1130,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Vishnu Prasad.R",
+    "Student_Name": "Vishnu Prasad.R",
     "Student_Email": "vishnuprasadr29@gmail.com",
     "Institution": "[Referred] Mahaguru Institute of Technology",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:25:44 GMT+0530 (India Standard Time)",
@@ -1140,7 +1140,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "KELVIN P ANEESH",
+    "Student_Name": "KELVIN P ANEESH",
     "Student_Email": "kelvin12213443@gmail.com",
     "Institution": "[Referred] COLLEGE OF ENGINEERING KIDANGOOR",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:40:26 GMT+0530 (India Standard Time)",
@@ -1150,7 +1150,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Thejas K P",
+    "Student_Name": "Thejas K P",
     "Student_Email": "thejaskuttipoyil@gmail.com",
     "Institution": "[Referred] Government Engineering College Wayanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:57:33 GMT+0530 (India Standard Time)",
@@ -1160,7 +1160,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anjana A S",
+    "Student_Name": "Anjana A S",
     "Student_Email": "anjanasubhasha@gmail.com",
     "Institution": "[Referred] Mahaguru Institute Of Technology,kattachira,kerala",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:59:19 GMT+0530 (India Standard Time)",
@@ -1170,7 +1170,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nagavaishnavi K",
+    "Student_Name": "Nagavaishnavi K",
     "Student_Email": "nagavaishnavik2020@gmail.com",
     "Institution": "[Referred] R V College of Engineering",
     "Enrolment Date & Time": "Mon Apr 05 2021 22:17:32 GMT+0530 (India Standard Time)",
@@ -1180,7 +1180,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Raichel Moncy",
+    "Student_Name": "Raichel Moncy",
     "Student_Email": "raichelmoncy16@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 22:23:01 GMT+0530 (India Standard Time)",
@@ -1190,7 +1190,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "RITHU R",
+    "Student_Name": "RITHU R",
     "Student_Email": "rithu75@ieee.org",
     "Institution": "[Referred] Government Engineering College Bartonhill, Trivandrum",
     "Enrolment Date & Time": "Mon Apr 05 2021 22:26:14 GMT+0530 (India Standard Time)",
@@ -1200,7 +1200,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shruti Santosh",
+    "Student_Name": "Shruti Santosh",
     "Student_Email": "shrutisantosh99@yahoo.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology, Kottayam",
     "Enrolment Date & Time": "Mon Apr 05 2021 22:29:17 GMT+0530 (India Standard Time)",
@@ -1210,7 +1210,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Anurag Jain",
+    "Student_Name": "Anurag Jain",
     "Student_Email": "anuragjain2rr@gmail.com",
     "Institution": "[Referred] Institute of Engineering and Technology ,DAVV,indore",
     "Enrolment Date & Time": "Mon Apr 05 2021 22:44:23 GMT+0530 (India Standard Time)",
@@ -1220,7 +1220,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ABHIJITH RAM P",
+    "Student_Name": "ABHIJITH RAM P",
     "Student_Email": "abhijithudma34@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 22:50:27 GMT+0530 (India Standard Time)",
@@ -1230,7 +1230,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anandha Krishnan V S",
+    "Student_Name": "Anandha Krishnan V S",
     "Student_Email": "ananthan.akvs@gmail.com",
     "Institution": "[Referred] Rajadhani Institute of Engineering and Technology, Nagaroor, Attingal",
     "Enrolment Date & Time": "Mon Apr 05 2021 23:05:20 GMT+0530 (India Standard Time)",
@@ -1240,7 +1240,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Swetha Lohith",
+    "Student_Name": "Swetha Lohith",
     "Student_Email": "swethalohith@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology",
     "Enrolment Date & Time": "Mon Apr 05 2021 23:25:29 GMT+0530 (India Standard Time)",
@@ -1250,7 +1250,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "BINIL BIJU",
+    "Student_Name": "BINIL BIJU",
     "Student_Email": "binilbijuchengankal@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 23:29:51 GMT+0530 (India Standard Time)",
@@ -1260,7 +1260,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "ALLEN THOMAS",
+    "Student_Name": "ALLEN THOMAS",
     "Student_Email": "allenthomas204@gmail.com",
     "Institution": "[Referred] Government Engineering College Painavu, Idukki, Kerala - 685603",
     "Enrolment Date & Time": "Mon Apr 05 2021 23:35:49 GMT+0530 (India Standard Time)",
@@ -1270,7 +1270,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "Anusree V",
+    "Student_Name": "Anusree V",
     "Student_Email": "anusreev22@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINNERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Mon Apr 05 2021 23:48:23 GMT+0530 (India Standard Time)",
@@ -1280,7 +1280,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anoos M",
+    "Student_Name": "Anoos M",
     "Student_Email": "anoosalathur@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 23:58:30 GMT+0530 (India Standard Time)",
@@ -1290,7 +1290,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ameena Farooq VP",
+    "Student_Name": "Ameena Farooq VP",
     "Student_Email": "ameenafarooq2000@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Mon Apr 05 2021 23:59:31 GMT+0530 (India Standard Time)",
@@ -1300,7 +1300,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "sajjan gandla sai navya",
+    "Student_Name": "sajjan gandla sai navya",
     "Student_Email": "sajjannavya@gmail.com",
     "Institution": "[Referred] Vignana Bharathi institute of technology",
     "Enrolment Date & Time": "Tue Apr 06 2021 00:11:19 GMT+0530 (India Standard Time)",
@@ -1310,7 +1310,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ANN MARIA MATHEW",
+    "Student_Name": "ANN MARIA MATHEW",
     "Student_Email": "annmariavachaparambil@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 02:04:06 GMT+0530 (India Standard Time)",
@@ -1320,7 +1320,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Adwait Dathan R",
+    "Student_Name": "Adwait Dathan R",
     "Student_Email": "radathan1@gmail.com",
     "Institution": "[Referred] Amrita School of Engineering, Coimbatore",
     "Enrolment Date & Time": "Tue Apr 06 2021 02:25:09 GMT+0530 (India Standard Time)",
@@ -1330,7 +1330,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sachin Singh Singh Yadav",
+    "Student_Name": "Sachin Singh Singh Yadav",
     "Student_Email": "sachinsinghyadav245@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 05:44:07 GMT+0530 (India Standard Time)",
@@ -1340,7 +1340,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Abhijeet kumar",
+    "Student_Name": "Abhijeet kumar",
     "Student_Email": "abhikrsingh90976@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 07:12:09 GMT+0530 (India Standard Time)",
@@ -1350,7 +1350,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Akshay R K",
+    "Student_Name": "Akshay R K",
     "Student_Email": "akshayrkofficial@gmail.com",
     "Institution": "[Referred] Govt. Engineering College, Idukki.",
     "Enrolment Date & Time": "Tue Apr 06 2021 07:23:52 GMT+0530 (India Standard Time)",
@@ -1360,7 +1360,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "LAKSHMY K L",
+    "Student_Name": "LAKSHMY K L",
     "Student_Email": "lakshmykl480@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Tue Apr 06 2021 08:34:00 GMT+0530 (India Standard Time)",
@@ -1370,7 +1370,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Rahmath kv",
+    "Student_Name": "Rahmath kv",
     "Student_Email": "rahmathkv1999@gmail.com",
     "Institution": "[Referred] Government engineering college idukki",
     "Enrolment Date & Time": "Tue Apr 06 2021 08:35:14 GMT+0530 (India Standard Time)",
@@ -1380,7 +1380,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "AJO BENNY",
+    "Student_Name": "AJO BENNY",
     "Student_Email": "ajobenny@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 08:44:08 GMT+0530 (India Standard Time)",
@@ -1390,7 +1390,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "John P Abraham",
+    "Student_Name": "John P Abraham",
     "Student_Email": "ajinabraham1111@gmail.com",
     "Institution": "[Referred] Kristu jyothi college of management and technologies",
     "Enrolment Date & Time": "Tue Apr 06 2021 08:50:37 GMT+0530 (India Standard Time)",
@@ -1400,7 +1400,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "shamjith saji",
+    "Student_Name": "shamjith saji",
     "Student_Email": "shamjith245@gmail.com",
     "Institution": "[Referred] vimal jyothi engineering college,chemperi",
     "Enrolment Date & Time": "Tue Apr 06 2021 09:38:03 GMT+0530 (India Standard Time)",
@@ -1410,7 +1410,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Sashankar Baruah",
+    "Student_Name": "Sashankar Baruah",
     "Student_Email": "rajsashasankar@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:09:15 GMT+0530 (India Standard Time)",
@@ -1420,7 +1420,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "SUSAN BABY",
+    "Student_Name": "SUSAN BABY",
     "Student_Email": "susanbaby0911@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:15:43 GMT+0530 (India Standard Time)",
@@ -1430,7 +1430,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Pankhuri Tomar",
+    "Student_Name": "Pankhuri Tomar",
     "Student_Email": "pankhuritomar695@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:17:37 GMT+0530 (India Standard Time)",
@@ -1440,7 +1440,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Kriti Gaurav",
+    "Student_Name": "Kriti Gaurav",
     "Student_Email": "kriti.gaurav2001@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:27:31 GMT+0530 (India Standard Time)",
@@ -1450,7 +1450,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sterin Roy",
+    "Student_Name": "Sterin Roy",
     "Student_Email": "njrsterin@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi institute of technology, kottyam",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:29:30 GMT+0530 (India Standard Time)",
@@ -1460,7 +1460,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "RIYA ELEN JOHN",
+    "Student_Name": "RIYA ELEN JOHN",
     "Student_Email": "riyaelen444@gmail.com",
     "Institution": "[Referred] COLLEGE OF ENGINEERING, CHENGANNUR",
     "Enrolment Date & Time": "Tue Apr 06 2021 09:56:11 GMT+0530 (India Standard Time)",
@@ -1470,7 +1470,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "BIKU PHILIP POTHEN",
+    "Student_Name": "BIKU PHILIP POTHEN",
     "Student_Email": "bikupothen1615@gmail.com",
     "Institution": "[Referred] Kristu Jyoti college",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:36:15 GMT+0530 (India Standard Time)",
@@ -1480,7 +1480,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Jeffin John Kottaram",
+    "Student_Name": "Jeffin John Kottaram",
     "Student_Email": "rdj.im200@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:42:19 GMT+0530 (India Standard Time)",
@@ -1490,7 +1490,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Jobin Biju",
+    "Student_Name": "Jobin Biju",
     "Student_Email": "jobinbiju9090@gmail.com",
     "Institution": "[Referred] Govt. Rajiv Gandhi Institute of Technology, Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 10:57:27 GMT+0530 (India Standard Time)",
@@ -1500,7 +1500,7 @@
     "Skill_Badges_Completed": 5
   },
   {
-    "Studen_Name": "Arshak Rehiman",
+    "Student_Name": "Arshak Rehiman",
     "Student_Email": "arshakm2513@gmail.com",
     "Institution": "[Referred] Government engineering college thrissur",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:11:41 GMT+0530 (India Standard Time)",
@@ -1510,7 +1510,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Saneef TT",
+    "Student_Name": "Saneef TT",
     "Student_Email": "tcr19ch044@gectcr.ac.in",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:15:10 GMT+0530 (India Standard Time)",
@@ -1520,7 +1520,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "MOHAMMED NIHAL PK",
+    "Student_Name": "MOHAMMED NIHAL PK",
     "Student_Email": "nihalpdkl2000@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:25:21 GMT+0530 (India Standard Time)",
@@ -1530,7 +1530,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sam Sunny",
+    "Student_Name": "Sam Sunny",
     "Student_Email": "samsunny0716@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:33:20 GMT+0530 (India Standard Time)",
@@ -1540,7 +1540,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "SALIQ K",
+    "Student_Name": "SALIQ K",
     "Student_Email": "saliqkotta37@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:40:58 GMT+0530 (India Standard Time)",
@@ -1550,7 +1550,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anson Jose",
+    "Student_Name": "Anson Jose",
     "Student_Email": "travelarts07@gmail.com",
     "Institution": "[Referred] College Of Engineering Kidangoor",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:42:30 GMT+0530 (India Standard Time)",
@@ -1560,7 +1560,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sruthy J Mallya",
+    "Student_Name": "Sruthy J Mallya",
     "Student_Email": "sruthyjmallya2018@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology, Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:46:17 GMT+0530 (India Standard Time)",
@@ -1570,7 +1570,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Nivya Prakash",
+    "Student_Name": "Nivya Prakash",
     "Student_Email": "nivyaprakash1999@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:47:24 GMT+0530 (India Standard Time)",
@@ -1580,7 +1580,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Muhammed Vasim K K",
+    "Student_Name": "Muhammed Vasim K K",
     "Student_Email": "vasimkk000@gmail.com",
     "Institution": "[Referred] Government Engineering College Thrissur",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:53:12 GMT+0530 (India Standard Time)",
@@ -1590,7 +1590,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Akshay Joseph",
+    "Student_Name": "Akshay Joseph",
     "Student_Email": "akshayjoseph666@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:53:18 GMT+0530 (India Standard Time)",
@@ -1600,7 +1600,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Hrishikesh Mahadev Gawas",
+    "Student_Name": "Hrishikesh Mahadev Gawas",
     "Student_Email": "hrishikesh.gawas99@gmail.com",
     "Institution": "[Referred] Terna Engineering College, Navi Mumbai",
     "Enrolment Date & Time": "Mon Apr 05 2021 21:53:15 GMT+0530 (India Standard Time)",
@@ -1610,7 +1610,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Janus Jerom",
+    "Student_Name": "Janus Jerom",
     "Student_Email": "janusjerom2000@gmail.com",
     "Institution": "[Referred] College Of Engineering Adoor",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:56:48 GMT+0530 (India Standard Time)",
@@ -1620,7 +1620,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "Hamza Maqbool Farooqi",
+    "Student_Name": "Hamza Maqbool Farooqi",
     "Student_Email": "hamzafarooqi2013@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:58:09 GMT+0530 (India Standard Time)",
@@ -1630,7 +1630,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "VISHAL B",
+    "Student_Name": "VISHAL B",
     "Student_Email": "lahsivtechnologies@gmail.com",
     "Institution": "[Referred] COLLEGE OF ENGINEERING CHENGANNUR",
     "Enrolment Date & Time": "Tue Apr 06 2021 12:08:26 GMT+0530 (India Standard Time)",
@@ -1640,7 +1640,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sidharth S",
+    "Student_Name": "Sidharth S",
     "Student_Email": "sidhu3612@gmail.com",
     "Institution": "[Referred] Govt. Rajiv Gandhi Institute of Technology, Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 12:17:25 GMT+0530 (India Standard Time)",
@@ -1650,7 +1650,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Krishnanand K",
+    "Student_Name": "Krishnanand K",
     "Student_Email": "krishkumaramangalam@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute Of Technology ,Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 12:28:22 GMT+0530 (India Standard Time)",
@@ -1660,7 +1660,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "HEBA FATHIMA",
+    "Student_Name": "HEBA FATHIMA",
     "Student_Email": "fansahfs@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 12:39:48 GMT+0530 (India Standard Time)",
@@ -1670,7 +1670,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nayana Girish",
+    "Student_Name": "Nayana Girish",
     "Student_Email": "chn18ec063@ceconline.edu",
     "Institution": "[Referred] College of Engineering Chengannur",
     "Enrolment Date & Time": "Tue Apr 06 2021 12:46:21 GMT+0530 (India Standard Time)",
@@ -1680,7 +1680,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Navaneeth Krishna E S",
+    "Student_Name": "Navaneeth Krishna E S",
     "Student_Email": "navaneethkes@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology, Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 12:54:23 GMT+0530 (India Standard Time)",
@@ -1690,7 +1690,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Reshma Murali",
+    "Student_Name": "Reshma Murali",
     "Student_Email": "reshmamuralisuseela2000@ieee.org",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:18:18 GMT+0530 (India Standard Time)",
@@ -1700,7 +1700,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "KRISHNA C",
+    "Student_Name": "KRISHNA C",
     "Student_Email": "krishnac@ieee.org",
     "Institution": "[Referred] Government Engineering College, Idukki",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:21:27 GMT+0530 (India Standard Time)",
@@ -1710,7 +1710,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Abina K P",
+    "Student_Name": "Abina K P",
     "Student_Email": "abina1550@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:36:13 GMT+0530 (India Standard Time)",
@@ -1720,7 +1720,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Joseph Pious",
+    "Student_Name": "Joseph Pious",
     "Student_Email": "josephpiousambattu@gmail.com",
     "Institution": "[Referred] College of Engineering Adoor",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:39:10 GMT+0530 (India Standard Time)",
@@ -1730,7 +1730,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Harsh Upparwal",
+    "Student_Name": "Harsh Upparwal",
     "Student_Email": "500067853@stu.upes.ac.in",
     "Institution": "[Referred] University of Petroleum and Energy Studies, Dehradun",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:48:27 GMT+0530 (India Standard Time)",
@@ -1740,7 +1740,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Arvin Kaiyalethu Mathew",
+    "Student_Name": "Arvin Kaiyalethu Mathew",
     "Student_Email": "arvinkmathewksa@gmail.com",
     "Institution": "[Referred] College of engineering chengannur",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:50:53 GMT+0530 (India Standard Time)",
@@ -1750,7 +1750,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Alphin Kayalathu Mathew",
+    "Student_Name": "Alphin Kayalathu Mathew",
     "Student_Email": "Alphinkmathewksa@gmail.com",
     "Institution": "[Referred] College of engineering chenganur",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:51:18 GMT+0530 (India Standard Time)",
@@ -1760,7 +1760,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Alen Boby",
+    "Student_Name": "Alen Boby",
     "Student_Email": "alenbobyvarghesepulimoottil@gmail.com",
     "Institution": "[Referred] Mahaguru Institute Of Technology",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:56:06 GMT+0530 (India Standard Time)",
@@ -1770,7 +1770,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Siddhanth Andani",
+    "Student_Name": "Siddhanth Andani",
     "Student_Email": "500068534@stu.upes.ac.in",
     "Institution": "[Referred] University of petroleum and energy studies(UPES)",
     "Enrolment Date & Time": "Tue Apr 06 2021 13:59:19 GMT+0530 (India Standard Time)",
@@ -1780,7 +1780,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Claude Berenger Korandji",
+    "Student_Name": "Claude Berenger Korandji",
     "Student_Email": "korandji.claude@outlook.com",
     "Institution": "[Referred] LYCEE CLASSIQUE D'ABIDJAN",
     "Enrolment Date & Time": "Tue Apr 06 2021 14:32:48 GMT+0530 (India Standard Time)",
@@ -1790,7 +1790,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "sanjith s",
+    "Student_Name": "sanjith s",
     "Student_Email": "sanjith945@gmail.com",
     "Institution": "[Referred] College of engineering chengannur",
     "Enrolment Date & Time": "Tue Apr 06 2021 14:35:03 GMT+0530 (India Standard Time)",
@@ -1800,7 +1800,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Siddhanth Andani",
+    "Student_Name": "Siddhanth Andani",
     "Student_Email": "siddhanthandani@gmail.com",
     "Institution": "[Referred] University of petroleum and energy studies (UPES)",
     "Enrolment Date & Time": "Tue Apr 06 2021 14:40:39 GMT+0530 (India Standard Time)",
@@ -1810,7 +1810,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Kaushal Jha",
+    "Student_Name": "Kaushal Jha",
     "Student_Email": "kjha7865@gmail.com",
     "Institution": "[Referred] Thakur College of Engineering and Technology",
     "Enrolment Date & Time": "Tue Apr 06 2021 12:13:46 GMT+0530 (India Standard Time)",
@@ -1820,7 +1820,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Deepak Mohan Sawant",
+    "Student_Name": "Deepak Mohan Sawant",
     "Student_Email": "deepaksawant201216@gmail.com",
     "Institution": "[Referred] VPM's B.N.Bandodkar College of Science,Thane",
     "Enrolment Date & Time": "Tue Apr 06 2021 14:58:19 GMT+0530 (India Standard Time)",
@@ -1830,7 +1830,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Basil Pathrose",
+    "Student_Name": "Basil Pathrose",
     "Student_Email": "basilmp850@gmail.com",
     "Institution": "[Referred] Government Engineering College, Thrissur",
     "Enrolment Date & Time": "Tue Apr 06 2021 15:27:05 GMT+0530 (India Standard Time)",
@@ -1840,7 +1840,7 @@
     "Skill_Badges_Completed": 10
   },
   {
-    "Studen_Name": "Haseena Hassan",
+    "Student_Name": "Haseena Hassan",
     "Student_Email": "haseenaparker002@gmail.com",
     "Institution": "[Referred] College of engineering Trivandrum",
     "Enrolment Date & Time": "Sat Apr 03 2021 18:23:43 GMT+0530 (India Standard Time)",
@@ -1850,7 +1850,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Riya pk",
+    "Student_Name": "Riya pk",
     "Student_Email": "riyapk505@gmail.com",
     "Institution": "[Referred] Government engineering college idukki",
     "Enrolment Date & Time": "Tue Apr 06 2021 15:30:18 GMT+0530 (India Standard Time)",
@@ -1860,7 +1860,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ankit Sharma",
+    "Student_Name": "Ankit Sharma",
     "Student_Email": "ankit09234@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 15:50:20 GMT+0530 (India Standard Time)",
@@ -1870,7 +1870,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Akhil Shalil",
+    "Student_Name": "Akhil Shalil",
     "Student_Email": "akhilshalil22@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 15:54:41 GMT+0530 (India Standard Time)",
@@ -1880,7 +1880,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "Navneeth Chandran",
+    "Student_Name": "Navneeth Chandran",
     "Student_Email": "navneeth2107@gmail.com",
     "Institution": "[Referred] College of Engineering Adoor",
     "Enrolment Date & Time": "Tue Apr 06 2021 16:22:40 GMT+0530 (India Standard Time)",
@@ -1890,7 +1890,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "Divya Suman",
+    "Student_Name": "Divya Suman",
     "Student_Email": "shristi.divyasuman17@gmail.com",
     "Institution": "[Referred] Gandhi Institute for technological Advancement, BBSR",
     "Enrolment Date & Time": "Tue Apr 06 2021 16:33:36 GMT+0530 (India Standard Time)",
@@ -1900,7 +1900,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Arjun K S",
+    "Student_Name": "Arjun K S",
     "Student_Email": "arjun.ks3323@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology, Kottayam",
     "Enrolment Date & Time": "Tue Apr 06 2021 16:35:33 GMT+0530 (India Standard Time)",
@@ -1910,7 +1910,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "SURAJ ROY",
+    "Student_Name": "SURAJ ROY",
     "Student_Email": "surajrai1204@gmail.com",
     "Institution": "[Referred] SCHOOL OF OPEN LEARNING",
     "Enrolment Date & Time": "Tue Apr 06 2021 17:21:25 GMT+0530 (India Standard Time)",
@@ -1920,7 +1920,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Om Gupta",
+    "Student_Name": "Om Gupta",
     "Student_Email": "guptaom782@gmail.com",
     "Institution": "[Referred] techno india hoogly",
     "Enrolment Date & Time": "Tue Apr 06 2021 09:59:47 GMT+0530 (India Standard Time)",
@@ -1930,7 +1930,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Mithun Xavior",
+    "Student_Name": "Mithun Xavior",
     "Student_Email": "mithunnx@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 18:07:08 GMT+0530 (India Standard Time)",
@@ -1940,7 +1940,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Merrin Chacko",
+    "Student_Name": "Merrin Chacko",
     "Student_Email": "merrinchacko@gmail.com",
     "Institution": "[Referred] Model Engineering College",
     "Enrolment Date & Time": "Tue Apr 06 2021 18:40:49 GMT+0530 (India Standard Time)",
@@ -1950,7 +1950,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Avani S",
+    "Student_Name": "Avani S",
     "Student_Email": "avani2000s@gmail.com",
     "Institution": "[Referred] College of Engineering Chengannur",
     "Enrolment Date & Time": "Tue Apr 06 2021 18:53:15 GMT+0530 (India Standard Time)",
@@ -1960,7 +1960,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Neena Maria M Jojo",
+    "Student_Name": "Neena Maria M Jojo",
     "Student_Email": "neenamarria@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of technology",
     "Enrolment Date & Time": "Tue Apr 06 2021 19:33:33 GMT+0530 (India Standard Time)",
@@ -1970,7 +1970,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "BHANU PRATAP SINGH",
+    "Student_Name": "BHANU PRATAP SINGH",
     "Student_Email": "bhanupratapsingh14122001@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 19:42:50 GMT+0530 (India Standard Time)",
@@ -1980,7 +1980,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Aswin N Kaimal",
+    "Student_Name": "Aswin N Kaimal",
     "Student_Email": "aswinnkaimal08@gmail.com",
     "Institution": "[Referred] Ettumanoorappan College, Ettumanoor",
     "Enrolment Date & Time": "Tue Apr 06 2021 19:58:24 GMT+0530 (India Standard Time)",
@@ -1990,7 +1990,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "SREEDEV D",
+    "Student_Name": "SREEDEV D",
     "Student_Email": "devdineshsree@gmail.com",
     "Institution": "[Referred] Government engineering college thrissur",
     "Enrolment Date & Time": "Tue Apr 06 2021 20:32:46 GMT+0530 (India Standard Time)",
@@ -2000,7 +2000,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "SUMAN GARAI",
+    "Student_Name": "SUMAN GARAI",
     "Student_Email": "sgarai337@gmail.com",
     "Institution": "[Referred] RAMKRISHNA MAHATO GOVERNMENT ENGINEERING COLLEGE",
     "Enrolment Date & Time": "Tue Apr 06 2021 18:42:20 GMT+0530 (India Standard Time)",
@@ -2010,7 +2010,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Albit Sunny",
+    "Student_Name": "Albit Sunny",
     "Student_Email": "albitsunny33@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 21:12:36 GMT+0530 (India Standard Time)",
@@ -2020,7 +2020,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sivarenjini K Asokan",
+    "Student_Name": "Sivarenjini K Asokan",
     "Student_Email": "sivarenjiniasok16@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 21:53:24 GMT+0530 (India Standard Time)",
@@ -2030,7 +2030,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "GOVIND AJAYAN V",
+    "Student_Name": "GOVIND AJAYAN V",
     "Student_Email": "govindajayanv@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:01:30 GMT+0530 (India Standard Time)",
@@ -2040,7 +2040,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nipun Raj",
+    "Student_Name": "Nipun Raj",
     "Student_Email": "nipunraj99@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:02:45 GMT+0530 (India Standard Time)",
@@ -2050,7 +2050,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Vaishnav N T",
+    "Student_Name": "Vaishnav N T",
     "Student_Email": "vaishnav.nt.10@gmail.com",
     "Institution": "[Referred] Government Engineering College, Thrissur",
     "Enrolment Date & Time": "Tue Apr 06 2021 21:47:06 GMT+0530 (India Standard Time)",
@@ -2060,7 +2060,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Manjima Prasad PJ",
+    "Student_Name": "Manjima Prasad PJ",
     "Student_Email": "manjimaprasad22@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:29:13 GMT+0530 (India Standard Time)",
@@ -2070,7 +2070,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Rohini Nair",
+    "Student_Name": "Rohini Nair",
     "Student_Email": "rohiniacchu@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:38:03 GMT+0530 (India Standard Time)",
@@ -2080,7 +2080,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Pulickattil Jebin Joseph",
+    "Student_Name": "Pulickattil Jebin Joseph",
     "Student_Email": "jebinj97@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:38:03 GMT+0530 (India Standard Time)",
@@ -2090,7 +2090,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Kowsik Nandagopan D",
+    "Student_Name": "Kowsik Nandagopan D",
     "Student_Email": "dkowsikpai@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:39:28 GMT+0530 (India Standard Time)",
@@ -2100,7 +2100,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Varadha VR",
+    "Student_Name": "Varadha VR",
     "Student_Email": "varadavramesh@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:42:11 GMT+0530 (India Standard Time)",
@@ -2110,7 +2110,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sreekutty c",
+    "Student_Name": "Sreekutty c",
     "Student_Email": "sreekuttyc1@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:43:16 GMT+0530 (India Standard Time)",
@@ -2120,7 +2120,7 @@
     "Skill_Badges_Completed": 13
   },
   {
-    "Studen_Name": "Anirudh mv",
+    "Student_Name": "Anirudh mv",
     "Student_Email": "anirudhashok7898@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:48:06 GMT+0530 (India Standard Time)",
@@ -2130,7 +2130,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Fathima Hanan",
+    "Student_Name": "Fathima Hanan",
     "Student_Email": "fathimahanan113@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:00:53 GMT+0530 (India Standard Time)",
@@ -2140,7 +2140,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shithin Raj",
+    "Student_Name": "Shithin Raj",
     "Student_Email": "shithinraj369@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:04:04 GMT+0530 (India Standard Time)",
@@ -2150,7 +2150,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Aiswarya Mahesh",
+    "Student_Name": "Aiswarya Mahesh",
     "Student_Email": "aiswaryamahesh712@gmail.com",
     "Institution": "[Referred] College of Engineering and Management Punnapra",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:12:13 GMT+0530 (India Standard Time)",
@@ -2160,7 +2160,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Roshen Raju",
+    "Student_Name": "Roshen Raju",
     "Student_Email": "roshenraju2@gmail.com",
     "Institution": "[Referred] TKM College of Engineering, Kollam",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:12:18 GMT+0530 (India Standard Time)",
@@ -2170,7 +2170,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ajith D",
+    "Student_Name": "Ajith D",
     "Student_Email": "ajithd78564@gmail.com",
     "Institution": "[Referred] College of Engineering and Management, Punnapra",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:13:27 GMT+0530 (India Standard Time)",
@@ -2180,7 +2180,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Alwin joy N",
+    "Student_Name": "Alwin joy N",
     "Student_Email": "alwinjoyneelamkavil@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:17:24 GMT+0530 (India Standard Time)",
@@ -2190,7 +2190,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Vishnu R",
+    "Student_Name": "Vishnu R",
     "Student_Email": "vishnuraman16@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:18:17 GMT+0530 (India Standard Time)",
@@ -2200,7 +2200,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sourav S Kumar",
+    "Student_Name": "Sourav S Kumar",
     "Student_Email": "skumarsourav4@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:20:09 GMT+0530 (India Standard Time)",
@@ -2210,7 +2210,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Bintu Binu Thomas",
+    "Student_Name": "Bintu Binu Thomas",
     "Student_Email": "bintubs@gmail.com",
     "Institution": "[Referred] Mar Ephraem college of Engineering and technology",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:24:19 GMT+0530 (India Standard Time)",
@@ -2220,7 +2220,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ALAN JOSEPH SHAJI",
+    "Student_Name": "ALAN JOSEPH SHAJI",
     "Student_Email": "alanmaliyeckal@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering, Kothamangalam",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:30:58 GMT+0530 (India Standard Time)",
@@ -2230,7 +2230,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Rompy Roshni",
+    "Student_Name": "Rompy Roshni",
     "Student_Email": "rompyroshni031@gmail.com",
     "Institution": "[Referred] Chitkara University",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:38:01 GMT+0530 (India Standard Time)",
@@ -2240,7 +2240,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "MUHAMMED MIDHILAJ U",
+    "Student_Name": "MUHAMMED MIDHILAJ U",
     "Student_Email": "muhammedmidlaju@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:38:36 GMT+0530 (India Standard Time)",
@@ -2250,7 +2250,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Philona Reetha Sebastian",
+    "Student_Name": "Philona Reetha Sebastian",
     "Student_Email": "philonasebastian44@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:45:02 GMT+0530 (India Standard Time)",
@@ -2260,7 +2260,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "TV Vrinda",
+    "Student_Name": "TV Vrinda",
     "Student_Email": "vrindatv10@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:45:17 GMT+0530 (India Standard Time)",
@@ -2270,7 +2270,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Jinil Jiju",
+    "Student_Name": "Jinil Jiju",
     "Student_Email": "jiniljiju0706@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of engineering Kothamangalam",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:54:05 GMT+0530 (India Standard Time)",
@@ -2280,7 +2280,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Ghinson K Varkey",
+    "Student_Name": "Ghinson K Varkey",
     "Student_Email": "ghinsonkolenchery@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering,Kothamangalam",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:58:53 GMT+0530 (India Standard Time)",
@@ -2290,7 +2290,7 @@
     "Skill_Badges_Completed": 3
   },
   {
-    "Studen_Name": "Haseena Hassan",
+    "Student_Name": "Haseena Hassan",
     "Student_Email": "haseenaishere@cet.ac.in",
     "Institution": "[Referred] College of engineering Trivandrum",
     "Enrolment Date & Time": "Tue Apr 06 2021 16:53:33 GMT+0530 (India Standard Time)",
@@ -2300,7 +2300,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "SREEDEV D",
+    "Student_Name": "SREEDEV D",
     "Student_Email": "sreedev2001tcs@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "Enrolment Date & Time": "Wed Apr 07 2021 00:05:03 GMT+0530 (India Standard Time)",
@@ -2310,7 +2310,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "ALBERT JOE JUSTINE",
+    "Student_Name": "ALBERT JOE JUSTINE",
     "Student_Email": "albertjoejustine@gmail.com",
     "Institution": "[Referred] Awh Engineering College, kuttikattur",
     "Enrolment Date & Time": "Wed Apr 07 2021 00:15:35 GMT+0530 (India Standard Time)",
@@ -2320,7 +2320,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "M J Gopikrishna",
+    "Student_Name": "M J Gopikrishna",
     "Student_Email": "mj.gopi98@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 01:10:38 GMT+0530 (India Standard Time)",
@@ -2330,7 +2330,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Muhammed Rebin P",
+    "Student_Name": "Muhammed Rebin P",
     "Student_Email": "muhdribin2001@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 05:57:21 GMT+0530 (India Standard Time)",
@@ -2340,7 +2340,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Joseph George",
+    "Student_Name": "Joseph George",
     "Student_Email": "ajtradersgeorge@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering Kothamangalam",
     "Enrolment Date & Time": "Wed Apr 07 2021 08:06:27 GMT+0530 (India Standard Time)",
@@ -2350,7 +2350,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Syed",
+    "Student_Name": "Syed",
     "Student_Email": "syedyunus1929@gmail.com",
     "Institution": "[Referred] Sphoorthy Engineering College",
     "Enrolment Date & Time": "Wed Apr 07 2021 08:58:00 GMT+0530 (India Standard Time)",
@@ -2360,7 +2360,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Rahul Gopan",
+    "Student_Name": "Rahul Gopan",
     "Student_Email": "rahulgopan224@gmail.com",
     "Institution": "[Referred] ETTUMANOORAPPAN COLLEGE, ETTUMANOOR",
     "Enrolment Date & Time": "Wed Apr 07 2021 09:00:15 GMT+0530 (India Standard Time)",
@@ -2370,7 +2370,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Rehan Thomas",
+    "Student_Name": "Rehan Thomas",
     "Student_Email": "rehanpulickal@gmail.com",
     "Institution": "[Referred] College Of Engineering Chengannur",
     "Enrolment Date & Time": "Wed Apr 07 2021 09:10:42 GMT+0530 (India Standard Time)",
@@ -2380,7 +2380,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "U KRISHNANUNNI",
+    "Student_Name": "U KRISHNANUNNI",
     "Student_Email": "balu4krishnan@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 09:27:57 GMT+0530 (India Standard Time)",
@@ -2390,7 +2390,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anson Benny",
+    "Student_Name": "Anson Benny",
     "Student_Email": "ansonbenny2023@cs.ajce.in",
     "Institution": "[Referred] Amal Jyothi college of Engineering",
     "Enrolment Date & Time": "Wed Apr 07 2021 09:40:52 GMT+0530 (India Standard Time)",
@@ -2400,7 +2400,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "THOMASAVIO",
+    "Student_Name": "THOMASAVIO",
     "Student_Email": "thomasavio003@gmail.com",
     "Institution": "[Referred] COLLEGE OF ENGINEERING ADOOR",
     "Enrolment Date & Time": "Wed Apr 07 2021 09:53:30 GMT+0530 (India Standard Time)",
@@ -2410,7 +2410,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ARJUN V",
+    "Student_Name": "ARJUN V",
     "Student_Email": "arjunvaradiyil203@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 08:19:03 GMT+0530 (India Standard Time)",
@@ -2420,7 +2420,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Harisankar K V",
+    "Student_Name": "Harisankar K V",
     "Student_Email": "harisankarkv339@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering",
     "Enrolment Date & Time": "Wed Apr 07 2021 10:14:03 GMT+0530 (India Standard Time)",
@@ -2430,7 +2430,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sarin M",
+    "Student_Name": "Sarin M",
     "Student_Email": "sarinmsari@gmail.com",
     "Institution": "[Referred] College of Engineering Thalassery",
     "Enrolment Date & Time": "Wed Apr 07 2021 10:22:06 GMT+0530 (India Standard Time)",
@@ -2440,7 +2440,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "MUHAMMED NITHAL",
+    "Student_Name": "MUHAMMED NITHAL",
     "Student_Email": "muhammadnidhal1@gmail.com",
     "Institution": "[Referred] AWH ENGINEERING COLLEGE , kuttikattoor , calicut",
     "Enrolment Date & Time": "Wed Apr 07 2021 10:38:28 GMT+0530 (India Standard Time)",
@@ -2450,7 +2450,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Alan James",
+    "Student_Name": "Alan James",
     "Student_Email": "alanjames2023@cs.ajce.in",
     "Institution": "[Referred] Amal Jyothi College of Engineering",
     "Enrolment Date & Time": "Wed Apr 07 2021 10:43:44 GMT+0530 (India Standard Time)",
@@ -2460,7 +2460,7 @@
     "Skill_Badges_Completed": 5
   },
   {
-    "Studen_Name": "Irene Paul",
+    "Student_Name": "Irene Paul",
     "Student_Email": "irenpoul753@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:10:04 GMT+0530 (India Standard Time)",
@@ -2470,7 +2470,7 @@
     "Skill_Badges_Completed": 7
   },
   {
-    "Studen_Name": "Salvin Jose K",
+    "Student_Name": "Salvin Jose K",
     "Student_Email": "salvinjose44@gmail.com",
     "Institution": "[Referred] Vimal Jyothi engineer college",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:11:08 GMT+0530 (India Standard Time)",
@@ -2480,7 +2480,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Alan John Francis",
+    "Student_Name": "Alan John Francis",
     "Student_Email": "alanjohnfrancis1@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering, Kothamangalam",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:22:09 GMT+0530 (India Standard Time)",
@@ -2490,7 +2490,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Tanya Sunish",
+    "Student_Name": "Tanya Sunish",
     "Student_Email": "tanyasunish02@gmail.com",
     "Institution": "[Referred] Rajagiri school of engineering and technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:31:05 GMT+0530 (India Standard Time)",
@@ -2500,7 +2500,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Anand Anto",
+    "Student_Name": "Anand Anto",
     "Student_Email": "anandanto2@gmail.com",
     "Institution": "[Referred] Rajagiri School of Engineering and Technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:37:00 GMT+0530 (India Standard Time)",
@@ -2510,7 +2510,7 @@
     "Skill_Badges_Completed": 5
   },
   {
-    "Studen_Name": "JosephThomas",
+    "Student_Name": "JosephThomas",
     "Student_Email": "Josephthomas8055@gmail.com",
     "Institution": "[Referred] Tkm institute of technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:43:56 GMT+0530 (India Standard Time)",
@@ -2520,7 +2520,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Suvarnesh K M",
+    "Student_Name": "Suvarnesh K M",
     "Student_Email": "suvarnesh1723@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:48:01 GMT+0530 (India Standard Time)",
@@ -2530,7 +2530,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Tanya Sunish",
+    "Student_Name": "Tanya Sunish",
     "Student_Email": "tanyasunish500@gmail.com",
     "Institution": "[Referred] Rajagiri school",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:51:01 GMT+0530 (India Standard Time)",
@@ -2540,7 +2540,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anand Anto",
+    "Student_Name": "Anand Anto",
     "Student_Email": "anandanto2001@gmail.com",
     "Institution": "[Referred] Rajagiri School of Engineering and Technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:57:28 GMT+0530 (India Standard Time)",
@@ -2550,7 +2550,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "JITHIN T",
+    "Student_Name": "JITHIN T",
     "Student_Email": "jithinunni420@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE ,THRISSUR",
     "Enrolment Date & Time": "Wed Apr 07 2021 12:31:18 GMT+0530 (India Standard Time)",
@@ -2560,7 +2560,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Alex Joseph",
+    "Student_Name": "Alex Joseph",
     "Student_Email": "aj81563@gmail.com",
     "Institution": "[Referred] St. Joseph's College of Engineering and Technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 12:45:19 GMT+0530 (India Standard Time)",
@@ -2570,7 +2570,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Muktiyar",
+    "Student_Name": "Muktiyar",
     "Student_Email": "roshurm4@gmail.com",
     "Institution": "[Referred] HMS institute of technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 13:55:35 GMT+0530 (India Standard Time)",
@@ -2580,7 +2580,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sam Sunny",
+    "Student_Name": "Sam Sunny",
     "Student_Email": "samsunny0733@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology Kottayam",
     "Enrolment Date & Time": "Wed Apr 07 2021 14:15:27 GMT+0530 (India Standard Time)",
@@ -2590,7 +2590,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Akshay Vinod",
+    "Student_Name": "Akshay Vinod",
     "Student_Email": "akshayvinod2001@gmail.com",
     "Institution": "[Referred] College Of Engineering Perumon",
     "Enrolment Date & Time": "Wed Apr 07 2021 14:18:45 GMT+0530 (India Standard Time)",
@@ -2600,7 +2600,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Fyrooz Husain",
+    "Student_Name": "Fyrooz Husain",
     "Student_Email": "fyroozhusain.in@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 14:32:05 GMT+0530 (India Standard Time)",
@@ -2610,7 +2610,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Hariharan Velappan",
+    "Student_Name": "Hariharan Velappan",
     "Student_Email": "haranshinobi@gmail.com",
     "Institution": "[Referred] Karunya University",
     "Enrolment Date & Time": "Wed Apr 07 2021 14:38:26 GMT+0530 (India Standard Time)",
@@ -2620,7 +2620,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "AKASH S KUMAR",
+    "Student_Name": "AKASH S KUMAR",
     "Student_Email": "akashskumar@perumonec.ac.in",
     "Institution": "[Referred] College of Engineering Perumon",
     "Enrolment Date & Time": "Wed Apr 07 2021 14:55:48 GMT+0530 (India Standard Time)",
@@ -2630,7 +2630,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nikhil Jose",
+    "Student_Name": "Nikhil Jose",
     "Student_Email": "nikhiljose12345@gmail.com",
     "Institution": "[Referred] SH HSS Changanasseri",
     "Enrolment Date & Time": "Wed Apr 07 2021 15:14:56 GMT+0530 (India Standard Time)",
@@ -2640,7 +2640,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Jomon Joseph",
+    "Student_Name": "Jomon Joseph",
     "Student_Email": "jmannacherry@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 15:26:14 GMT+0530 (India Standard Time)",
@@ -2650,7 +2650,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Anandhakrishnan G M",
+    "Student_Name": "Anandhakrishnan G M",
     "Student_Email": "anandhujnv@gmail.com",
     "Institution": "[Referred] College of Engineering Adoor",
     "Enrolment Date & Time": "Wed Apr 07 2021 15:30:04 GMT+0530 (India Standard Time)",
@@ -2660,7 +2660,7 @@
     "Skill_Badges_Completed": 5
   },
   {
-    "Studen_Name": "SHAHIL AM",
+    "Student_Name": "SHAHIL AM",
     "Student_Email": "shahilam1996@gmail.com",
     "Institution": "[Referred] AWH ENGINEERING COLLEGE KUTTIKATOOR KOZHIKODE",
     "Enrolment Date & Time": "Wed Apr 07 2021 15:49:29 GMT+0530 (India Standard Time)",
@@ -2670,7 +2670,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "FATHIMA S S",
+    "Student_Name": "FATHIMA S S",
     "Student_Email": "fathimass111@gmail.com",
     "Institution": "[Referred] College of engineering perumon",
     "Enrolment Date & Time": "Wed Apr 07 2021 15:55:47 GMT+0530 (India Standard Time)",
@@ -2680,7 +2680,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ADHWAITH S",
+    "Student_Name": "ADHWAITH S",
     "Student_Email": "adhwaithadhwaith@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 16:12:09 GMT+0530 (India Standard Time)",
@@ -2690,7 +2690,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Shridhar Avinash",
+    "Student_Name": "Shridhar Avinash",
     "Student_Email": "AvinashShridhar2025@gmail.com",
     "Institution": "[Referred] University of Petroleum and Energy Studies",
     "Enrolment Date & Time": "Wed Apr 07 2021 16:50:38 GMT+0530 (India Standard Time)",
@@ -2700,7 +2700,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ronish C Wilson",
+    "Student_Name": "Ronish C Wilson",
     "Student_Email": "ronishcwilson@gmail.com",
     "Institution": "[Referred] calicut university",
     "Enrolment Date & Time": "Wed Apr 07 2021 17:09:58 GMT+0530 (India Standard Time)",
@@ -2710,7 +2710,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Akash Kumar",
+    "Student_Name": "Akash Kumar",
     "Student_Email": "akashtech150@gmail.com",
     "Institution": "[Referred] Gandhi Engineering College",
     "Enrolment Date & Time": "Wed Apr 07 2021 17:44:08 GMT+0530 (India Standard Time)",
@@ -2720,7 +2720,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "Pratheeksha Prakash",
+    "Student_Name": "Pratheeksha Prakash",
     "Student_Email": "preetulakshmi@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 17:50:28 GMT+0530 (India Standard Time)",
@@ -2730,7 +2730,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "Pooja Agrawal",
+    "Student_Name": "Pooja Agrawal",
     "Student_Email": "poojaagrawal134@gmail.com",
     "Institution": "[Referred] Banasthali University",
     "Enrolment Date & Time": "Wed Apr 07 2021 17:52:43 GMT+0530 (India Standard Time)",
@@ -2740,7 +2740,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Sreekripa K",
+    "Student_Name": "Sreekripa K",
     "Student_Email": "Sreekripak@gmail.com",
     "Institution": "[Referred] Government College of engineering Idukki",
     "Enrolment Date & Time": "Wed Apr 07 2021 17:58:25 GMT+0530 (India Standard Time)",
@@ -2750,7 +2750,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Monish Kumar Bairagi",
+    "Student_Name": "Monish Kumar Bairagi",
     "Student_Email": "440bapan@gmail.com",
     "Institution": "[Referred] Hooghly Engineering and Technology College",
     "Enrolment Date & Time": "Wed Apr 07 2021 18:03:21 GMT+0530 (India Standard Time)",
@@ -2760,7 +2760,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nandana Suresh",
+    "Student_Name": "Nandana Suresh",
     "Student_Email": "nandana721d@gmail.com",
     "Institution": "[Referred] College Of Engineering, Adoor",
     "Enrolment Date & Time": "Wed Apr 07 2021 18:12:38 GMT+0530 (India Standard Time)",
@@ -2770,7 +2770,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Aleena Pascal",
+    "Student_Name": "Aleena Pascal",
     "Student_Email": "aleenapascal@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 08:21:34 GMT+0530 (India Standard Time)",
@@ -2780,7 +2780,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "akshay k baburaj",
+    "Student_Name": "akshay k baburaj",
     "Student_Email": "akshaykbaburaj8653@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 18:44:07 GMT+0530 (India Standard Time)",
@@ -2790,7 +2790,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "M SANKAR",
+    "Student_Name": "M SANKAR",
     "Student_Email": "sankarcrazy27101999@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 18:45:44 GMT+0530 (India Standard Time)",
@@ -2800,7 +2800,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Julien Joseph Thomas",
+    "Student_Name": "Julien Joseph Thomas",
     "Student_Email": "apps4jjt@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Wed Apr 07 2021 19:54:40 GMT+0530 (India Standard Time)",
@@ -2810,7 +2810,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Shyam Prasad Laxmi Narayana Vegi",
+    "Student_Name": "Shyam Prasad Laxmi Narayana Vegi",
     "Student_Email": "shyamvegi16@gmail.com",
     "Institution": "[Referred] Vignan institute of information technology",
     "Enrolment Date & Time": "Wed Apr 07 2021 19:55:18 GMT+0530 (India Standard Time)",
@@ -2820,7 +2820,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "Paul Joseph Francis",
+    "Student_Name": "Paul Joseph Francis",
     "Student_Email": "pauljoseph2596@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Wed Apr 07 2021 19:57:38 GMT+0530 (India Standard Time)",
@@ -2830,7 +2830,7 @@
     "Skill_Badges_Completed": 13
   },
   {
-    "Studen_Name": "Minnal Arora",
+    "Student_Name": "Minnal Arora",
     "Student_Email": "minnal4321@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 20:00:31 GMT+0530 (India Standard Time)",
@@ -2840,7 +2840,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Arjun A",
+    "Student_Name": "Arjun A",
     "Student_Email": "iamarjun1999@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi institute of technology Kottayam",
     "Enrolment Date & Time": "Wed Apr 07 2021 13:03:39 GMT+0530 (India Standard Time)",
@@ -2850,7 +2850,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "SHAHAM AHAMMED K",
+    "Student_Name": "SHAHAM AHAMMED K",
     "Student_Email": "shahamahmd007@gmail.com",
     "Institution": "[Referred] AWH ENGINEERING COLLAGE, KOZHIKODE",
     "Enrolment Date & Time": "Wed Apr 07 2021 20:25:48 GMT+0530 (India Standard Time)",
@@ -2860,7 +2860,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sreeraj I S",
+    "Student_Name": "Sreeraj I S",
     "Student_Email": "sreerajsreerajis@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 20:38:09 GMT+0530 (India Standard Time)",
@@ -2870,7 +2870,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "ANTONY GODWIN S",
+    "Student_Name": "ANTONY GODWIN S",
     "Student_Email": "poulyyohannan@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Wed Apr 07 2021 20:38:39 GMT+0530 (India Standard Time)",
@@ -2880,7 +2880,7 @@
     "Skill_Badges_Completed": 5
   },
   {
-    "Studen_Name": "Aswin P Saji",
+    "Student_Name": "Aswin P Saji",
     "Student_Email": "aswinps2611@gmail.com",
     "Institution": "[Referred] Government Engineering College, Trissur",
     "Enrolment Date & Time": "Wed Apr 07 2021 20:34:31 GMT+0530 (India Standard Time)",
@@ -2890,7 +2890,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "MIDHUN JOHN",
+    "Student_Name": "MIDHUN JOHN",
     "Student_Email": "johnmidhun24@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE WAYANAD",
     "Enrolment Date & Time": "Wed Apr 07 2021 20:42:24 GMT+0530 (India Standard Time)",
@@ -2900,7 +2900,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "ANSUN S ISAAC",
+    "Student_Name": "ANSUN S ISAAC",
     "Student_Email": "isaacs3001@gmail.com",
     "Institution": "[Referred] COLLEGE OF ENGINEERING ADOOR",
     "Enrolment Date & Time": "Tue Apr 06 2021 19:09:55 GMT+0530 (India Standard Time)",
@@ -2910,7 +2910,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "ANTONY GODWIN S",
+    "Student_Name": "ANTONY GODWIN S",
     "Student_Email": "devilox999@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE",
     "Enrolment Date & Time": "Wed Apr 07 2021 10:19:17 GMT+0530 (India Standard Time)",
@@ -2920,7 +2920,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Abhijith TV",
+    "Student_Name": "Abhijith TV",
     "Student_Email": "abhijithtvrajan2001@gmail.com",
     "Institution": "[Referred] Government College of engineering Thrissur",
     "Enrolment Date & Time": "Wed Apr 07 2021 21:00:37 GMT+0530 (India Standard Time)",
@@ -2930,7 +2930,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "anirudh mv",
+    "Student_Name": "anirudh mv",
     "Student_Email": "anirudh7325@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 21:18:38 GMT+0530 (India Standard Time)",
@@ -2940,7 +2940,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Justin Antony",
+    "Student_Name": "Justin Antony",
     "Student_Email": "justinantony95@gmail.com",
     "Institution": "[Referred] Institute of Management and Technology, Ghaziabad",
     "Enrolment Date & Time": "Wed Apr 07 2021 21:25:29 GMT+0530 (India Standard Time)",
@@ -2950,7 +2950,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "ABDUL BASITH",
+    "Student_Name": "ABDUL BASITH",
     "Student_Email": "ab07411407@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 21:30:04 GMT+0530 (India Standard Time)",
@@ -2960,7 +2960,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ajay Mathew",
+    "Student_Name": "Ajay Mathew",
     "Student_Email": "ajayedathazhe@gmail.com",
     "Institution": "[Referred] Government Engineering College Thrissur",
     "Enrolment Date & Time": "Wed Apr 07 2021 21:52:28 GMT+0530 (India Standard Time)",
@@ -2970,7 +2970,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "shivangi priya",
+    "Student_Name": "shivangi priya",
     "Student_Email": "shivangi804429@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 21:54:20 GMT+0530 (India Standard Time)",
@@ -2980,7 +2980,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Lekshmipriya M",
+    "Student_Name": "Lekshmipriya M",
     "Student_Email": "eeksha712@gmail.com",
     "Institution": "[Referred] College Of Engineering Adoor",
     "Enrolment Date & Time": "Wed Apr 07 2021 22:14:48 GMT+0530 (India Standard Time)",
@@ -2990,7 +2990,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ABHINAND M S",
+    "Student_Name": "ABHINAND M S",
     "Student_Email": "abhinandms2017@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Wed Apr 07 2021 23:07:30 GMT+0530 (India Standard Time)",
@@ -3000,7 +3000,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ASWIN SASI",
+    "Student_Name": "ASWIN SASI",
     "Student_Email": "aswinndr1998@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Wed Apr 07 2021 23:09:32 GMT+0530 (India Standard Time)",
@@ -3010,7 +3010,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Sachin Pareek",
+    "Student_Name": "Sachin Pareek",
     "Student_Email": "pareeksachin71@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 09:28:59 GMT+0530 (India Standard Time)",
@@ -3020,7 +3020,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Refad anees k",
+    "Student_Name": "Refad anees k",
     "Student_Email": "refadk007@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 08:47:57 GMT+0530 (India Standard Time)",
@@ -3030,7 +3030,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Tom Savio",
+    "Student_Name": "Tom Savio",
     "Student_Email": "tomsavio99@gmail.com",
     "Institution": "[Referred] Rajagiri School of Engineering and Technology",
     "Enrolment Date & Time": "Thu Apr 08 2021 08:52:55 GMT+0530 (India Standard Time)",
@@ -3040,7 +3040,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ANILA S",
+    "Student_Name": "ANILA S",
     "Student_Email": "anilaevanove@gmail.com",
     "Institution": "[Referred] RIT, KOTTAYAM",
     "Enrolment Date & Time": "Thu Apr 08 2021 09:44:04 GMT+0530 (India Standard Time)",
@@ -3050,7 +3050,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Priya Patel",
+    "Student_Name": "Priya Patel",
     "Student_Email": "ankur7400619811@gmail.com",
     "Institution": "[Referred] Shri Ram Institute f Science and technology",
     "Enrolment Date & Time": "Thu Apr 08 2021 10:05:05 GMT+0530 (India Standard Time)",
@@ -3060,7 +3060,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "S Anandu",
+    "Student_Name": "S Anandu",
     "Student_Email": "anandusaiju613@gmail.com",
     "Institution": "[Referred] college of engineering adoor",
     "Enrolment Date & Time": "Thu Apr 08 2021 10:20:59 GMT+0530 (India Standard Time)",
@@ -3070,7 +3070,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "DHRUV GOUR",
+    "Student_Name": "DHRUV GOUR",
     "Student_Email": "mrdhruvgour@gmail.com",
     "Institution": "[Referred] Birla institute of technology pilani",
     "Enrolment Date & Time": "Thu Apr 08 2021 10:52:46 GMT+0530 (India Standard Time)",
@@ -3080,7 +3080,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ABHISHEK K",
+    "Student_Name": "ABHISHEK K",
     "Student_Email": "abhishekabhi9227@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 10:55:09 GMT+0530 (India Standard Time)",
@@ -3090,7 +3090,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shagul Hameed",
+    "Student_Name": "Shagul Hameed",
     "Student_Email": "shagulviruz@gmail.com",
     "Institution": "[Referred] Sankara College of Science and Commerce, Coimbatore",
     "Enrolment Date & Time": "Thu Apr 08 2021 10:56:32 GMT+0530 (India Standard Time)",
@@ -3100,7 +3100,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "NITHIN R",
+    "Student_Name": "NITHIN R",
     "Student_Email": "nithinremesh84@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology Kottayam",
     "Enrolment Date & Time": "Thu Apr 08 2021 11:07:27 GMT+0530 (India Standard Time)",
@@ -3110,7 +3110,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nitin kumar",
+    "Student_Name": "Nitin kumar",
     "Student_Email": "nitinyadav1312000@gmail.com",
     "Institution": "[Referred] Jss academy technical education noida",
     "Enrolment Date & Time": "Thu Apr 08 2021 11:30:40 GMT+0530 (India Standard Time)",
@@ -3120,7 +3120,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Arjun V",
+    "Student_Name": "Arjun V",
     "Student_Email": "arjunvaradiyill@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 11:41:07 GMT+0530 (India Standard Time)",
@@ -3130,7 +3130,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Aaron Paul",
+    "Student_Name": "Aaron Paul",
     "Student_Email": "aaronpaulm07@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 11:56:42 GMT+0530 (India Standard Time)",
@@ -3140,7 +3140,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Santript Mehta",
+    "Student_Name": "Santript Mehta",
     "Student_Email": "santriptmehta@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Sat Apr 03 2021 13:39:20 GMT+0530 (India Standard Time)",
@@ -3150,7 +3150,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "SHANIL A J",
+    "Student_Name": "SHANIL A J",
     "Student_Email": "shaniljoshi61@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Thu Apr 08 2021 12:42:18 GMT+0530 (India Standard Time)",
@@ -3160,7 +3160,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Subhrajeet shee",
+    "Student_Name": "Subhrajeet shee",
     "Student_Email": "sheesubhrajeet302@gmail.com",
     "Institution": "[Referred] Vpm B.N. Bandodkar College of Science, Thane",
     "Enrolment Date & Time": "Thu Apr 08 2021 12:43:27 GMT+0530 (India Standard Time)",
@@ -3170,7 +3170,7 @@
     "Skill_Badges_Completed": 14
   },
   {
-    "Studen_Name": "Vincy",
+    "Student_Name": "Vincy",
     "Student_Email": "vincyzomato@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 12:47:22 GMT+0530 (India Standard Time)",
@@ -3180,7 +3180,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Niya Jain",
+    "Student_Name": "Niya Jain",
     "Student_Email": "niyajain11@gmail.com",
     "Institution": "[Referred] Rajagiri School of Engineering and Technology, Kakanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 13:21:17 GMT+0530 (India Standard Time)",
@@ -3190,7 +3190,7 @@
     "Skill_Badges_Completed": 4
   },
   {
-    "Studen_Name": "Sharon Joshi",
+    "Student_Name": "Sharon Joshi",
     "Student_Email": "sharonjoshi74@gmail.com",
     "Institution": "[Referred] Rajagiri School of Engineering and Technology",
     "Enrolment Date & Time": "Thu Apr 08 2021 14:29:18 GMT+0530 (India Standard Time)",
@@ -3200,7 +3200,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Munish Kumar",
+    "Student_Name": "Munish Kumar",
     "Student_Email": "itsdark099@gmail.com",
     "Institution": "[Referred] College of Engineering Chengannur",
     "Enrolment Date & Time": "Thu Apr 08 2021 14:40:03 GMT+0530 (India Standard Time)",
@@ -3210,7 +3210,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "SNEGA S",
+    "Student_Name": "SNEGA S",
     "Student_Email": "snegaswetha333@gmail.com",
     "Institution": "[Referred] Sri Sairam Institute of Technology, Chennai",
     "Enrolment Date & Time": "Sat Apr 03 2021 10:02:24 GMT+0530 (India Standard Time)",
@@ -3220,7 +3220,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Shivani Chauhan",
+    "Student_Name": "Shivani Chauhan",
     "Student_Email": "codewith.shivani@gmail.com",
     "Institution": "[Referred] Maharaja Surajmal Institute Of Technology",
     "Enrolment Date & Time": "Thu Apr 08 2021 15:15:22 GMT+0530 (India Standard Time)",
@@ -3230,7 +3230,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Munish Kumar",
+    "Student_Name": "Munish Kumar",
     "Student_Email": "munist55@gmail.com",
     "Institution": "[Referred] College of Engineering Chengannur",
     "Enrolment Date & Time": "Thu Apr 08 2021 16:15:43 GMT+0530 (India Standard Time)",
@@ -3240,7 +3240,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "ROSE MARY JAISON",
+    "Student_Name": "ROSE MARY JAISON",
     "Student_Email": "jaisonrosemary@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE,THRISSUR",
     "Enrolment Date & Time": "Thu Apr 08 2021 16:23:37 GMT+0530 (India Standard Time)",
@@ -3250,7 +3250,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Thejaswini B",
+    "Student_Name": "Thejaswini B",
     "Student_Email": "thejaswini2021@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 16:27:26 GMT+0530 (India Standard Time)",
@@ -3260,7 +3260,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nikhil S Ashok",
+    "Student_Name": "Nikhil S Ashok",
     "Student_Email": "nikhilsashok224@gmail.com",
     "Institution": "[Referred] College Of Engineering Trivandrum",
     "Enrolment Date & Time": "Thu Apr 08 2021 16:28:33 GMT+0530 (India Standard Time)",
@@ -3270,7 +3270,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "sanket ramdas sonavane",
+    "Student_Name": "sanket ramdas sonavane",
     "Student_Email": "sanket2000sonavane@gmail.com",
     "Institution": "[Referred] pimpri chinchwad college of engineering,pune",
     "Enrolment Date & Time": "Thu Apr 08 2021 17:27:33 GMT+0530 (India Standard Time)",
@@ -3280,7 +3280,7 @@
     "Skill_Badges_Completed": 3
   },
   {
-    "Studen_Name": "Gouthaman K G",
+    "Student_Name": "Gouthaman K G",
     "Student_Email": "goutham7113@gmail.com",
     "Institution": "[Referred] College of Engineering, Cherthala",
     "Enrolment Date & Time": "Thu Apr 08 2021 17:58:54 GMT+0530 (India Standard Time)",
@@ -3290,7 +3290,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "PILLI VISHNUVARDHAN",
+    "Student_Name": "PILLI VISHNUVARDHAN",
     "Student_Email": "pillivishnu33@gmail.com",
     "Institution": "[Referred] SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY,HYDERABAD.",
     "Enrolment Date & Time": "Thu Apr 08 2021 18:51:35 GMT+0530 (India Standard Time)",
@@ -3300,7 +3300,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Stephy A S",
+    "Student_Name": "Stephy A S",
     "Student_Email": "stephyas12@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 20:27:55 GMT+0530 (India Standard Time)",
@@ -3310,7 +3310,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "BITHUN BABU S",
+    "Student_Name": "BITHUN BABU S",
     "Student_Email": "BITHUNBABU@GMAIL.COM",
     "Institution": "[Referred] The oxford college of science",
     "Enrolment Date & Time": "Thu Apr 08 2021 20:53:13 GMT+0530 (India Standard Time)",
@@ -3320,7 +3320,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Abhishek P",
+    "Student_Name": "Abhishek P",
     "Student_Email": "abhishekmullackal@gmail.com",
     "Institution": "[Referred] Government Engineering College Palakkad",
     "Enrolment Date & Time": "Thu Apr 08 2021 21:11:08 GMT+0530 (India Standard Time)",
@@ -3330,7 +3330,7 @@
     "Skill_Badges_Completed": 8
   },
   {
-    "Studen_Name": "Bestin Joseph Thomas",
+    "Student_Name": "Bestin Joseph Thomas",
     "Student_Email": "bestinjt649@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology Kottayam",
     "Enrolment Date & Time": "Thu Apr 08 2021 21:35:06 GMT+0530 (India Standard Time)",
@@ -3340,7 +3340,7 @@
     "Skill_Badges_Completed": 10
   },
   {
-    "Studen_Name": "CHANDINI V C",
+    "Student_Name": "CHANDINI V C",
     "Student_Email": "vcchandini98@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 21:43:19 GMT+0530 (India Standard Time)",
@@ -3350,7 +3350,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "FATHIMA K P",
+    "Student_Name": "FATHIMA K P",
     "Student_Email": "fathimafabikp@gmail.com",
     "Institution": "[Referred] AWH ENGINEERING COLLEGE ,CALICUT",
     "Enrolment Date & Time": "Thu Apr 08 2021 22:04:00 GMT+0530 (India Standard Time)",
@@ -3360,7 +3360,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "HARIKRISHNAN KB",
+    "Student_Name": "HARIKRISHNAN KB",
     "Student_Email": "baluoger91@gmail.com",
     "Institution": "[Referred] COLLEGE OF ENGINEERING AND MANAGEMENT PUNNAPRA",
     "Enrolment Date & Time": "Thu Apr 08 2021 22:30:45 GMT+0530 (India Standard Time)",
@@ -3370,7 +3370,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "ASHIL JOHNSON",
+    "Student_Name": "ASHIL JOHNSON",
     "Student_Email": "ashiljohnson2307@gmail.com",
     "Institution": "[Referred] COLLEGE OF ENGINEERING,ADOOR",
     "Enrolment Date & Time": "Thu Apr 08 2021 23:04:21 GMT+0530 (India Standard Time)",
@@ -3380,7 +3380,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Gokul S",
+    "Student_Name": "Gokul S",
     "Student_Email": "thegokul99@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 01:09:10 GMT+0530 (India Standard Time)",
@@ -3390,7 +3390,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ananthu unni p",
+    "Student_Name": "ananthu unni p",
     "Student_Email": "errorx0001@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 01:19:43 GMT+0530 (India Standard Time)",
@@ -3400,7 +3400,7 @@
     "Skill_Badges_Completed": 13
   },
   {
-    "Studen_Name": "THEJAL",
+    "Student_Name": "THEJAL",
     "Student_Email": "thejalmanoj2002@gmail.com",
     "Institution": "[Referred] GOVT.ENGINEERING COLLEGE,PALAKKAD",
     "Enrolment Date & Time": "Fri Apr 09 2021 07:02:53 GMT+0530 (India Standard Time)",
@@ -3410,7 +3410,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "Soyal Sunny",
+    "Student_Name": "Soyal Sunny",
     "Student_Email": "soyalsunny2000@gmail.com",
     "Institution": "[Referred] Viswajyothi College Of Engineering and Technology",
     "Enrolment Date & Time": "Fri Apr 09 2021 09:43:40 GMT+0530 (India Standard Time)",
@@ -3420,7 +3420,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Neethu Skaria",
+    "Student_Name": "Neethu Skaria",
     "Student_Email": "neethuskaria85@gmail.com",
     "Institution": "[Referred] Rajagiri School of Engineering and Technology",
     "Enrolment Date & Time": "Fri Apr 09 2021 09:48:23 GMT+0530 (India Standard Time)",
@@ -3430,7 +3430,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "GAYATHRI S NAIR",
+    "Student_Name": "GAYATHRI S NAIR",
     "Student_Email": "gayathrinair1201@gmail.com",
     "Institution": "[Referred] Scms school of engineering and technology",
     "Enrolment Date & Time": "Fri Apr 09 2021 09:49:44 GMT+0530 (India Standard Time)",
@@ -3440,7 +3440,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Jenit Abraham",
+    "Student_Name": "Jenit Abraham",
     "Student_Email": "jenitabraham391@gmail.com",
     "Institution": "[Referred] College of Engineering and Management Punnapra",
     "Enrolment Date & Time": "Wed Apr 07 2021 09:05:01 GMT+0530 (India Standard Time)",
@@ -3450,7 +3450,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Manish Shaji",
+    "Student_Name": "Manish Shaji",
     "Student_Email": "manumanish7736@gmail.com",
     "Institution": "[Referred] St. Albert's College (Autonomous), Ernakulam",
     "Enrolment Date & Time": "Fri Apr 09 2021 09:59:03 GMT+0530 (India Standard Time)",
@@ -3460,7 +3460,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Muhammed Sajad A",
+    "Student_Name": "Muhammed Sajad A",
     "Student_Email": "muhammedsajad236@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology,Kottayam",
     "Enrolment Date & Time": "Fri Apr 09 2021 10:03:33 GMT+0530 (India Standard Time)",
@@ -3470,7 +3470,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Anushree Vinod",
+    "Student_Name": "Anushree Vinod",
     "Student_Email": "anushreevinod10@gmail.com",
     "Institution": "[Referred] Govt. Rajiv Gandhi Institute of Technology,Kottayam",
     "Enrolment Date & Time": "Fri Apr 09 2021 10:10:34 GMT+0530 (India Standard Time)",
@@ -3480,7 +3480,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "Gladwin Santhosh",
+    "Student_Name": "Gladwin Santhosh",
     "Student_Email": "gladwintcr2001@gmail.com",
     "Institution": "[Referred] government engineering collage painavu",
     "Enrolment Date & Time": "Fri Apr 09 2021 10:33:49 GMT+0530 (India Standard Time)",
@@ -3490,7 +3490,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Kajal K M",
+    "Student_Name": "Kajal K M",
     "Student_Email": "kajalmartin.learn@gmail.com",
     "Institution": "[Referred] University College of Engineering, Thodupuzha",
     "Enrolment Date & Time": "Fri Apr 09 2021 10:55:35 GMT+0530 (India Standard Time)",
@@ -3500,7 +3500,7 @@
     "Skill_Badges_Completed": 5
   },
   {
-    "Studen_Name": "Ankit Anand",
+    "Student_Name": "Ankit Anand",
     "Student_Email": "ankitanand1974@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 11:03:46 GMT+0530 (India Standard Time)",
@@ -3510,7 +3510,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "MANISHA KUMARI",
+    "Student_Name": "MANISHA KUMARI",
     "Student_Email": "manisharai1099@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 11:22:31 GMT+0530 (India Standard Time)",
@@ -3520,7 +3520,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Adhila Aboobakar",
+    "Student_Name": "Adhila Aboobakar",
     "Student_Email": "adhilaaboobakar168@gmail.com",
     "Institution": "[Referred] Government Engineering College Idukki",
     "Enrolment Date & Time": "Thu Apr 08 2021 18:43:26 GMT+0530 (India Standard Time)",
@@ -3530,7 +3530,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Mahshooq Zubair",
+    "Student_Name": "Mahshooq Zubair",
     "Student_Email": "kmahshooq@gmail.com",
     "Institution": "[Referred] Government Engineering College, Idukki (GECI)",
     "Enrolment Date & Time": "Fri Apr 09 2021 11:55:17 GMT+0530 (India Standard Time)",
@@ -3540,7 +3540,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Muhammed Musthafa Shahal V",
+    "Student_Name": "Muhammed Musthafa Shahal V",
     "Student_Email": "musthuvakkayil@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 12:09:57 GMT+0530 (India Standard Time)",
@@ -3550,7 +3550,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Aksa N Panicker",
+    "Student_Name": "Aksa N Panicker",
     "Student_Email": "aksapanicker@gmail.com",
     "Institution": "[Referred] Government Engineering College, Palakkad",
     "Enrolment Date & Time": "Fri Apr 09 2021 12:53:59 GMT+0530 (India Standard Time)",
@@ -3560,7 +3560,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Guruvanditha",
+    "Student_Name": "Guruvanditha",
     "Student_Email": "guruvandithaselvarajan@gmail.com",
     "Institution": "[Referred] Government engineering",
     "Enrolment Date & Time": "Fri Apr 09 2021 12:54:15 GMT+0530 (India Standard Time)",
@@ -3570,7 +3570,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ajmal Latheef",
+    "Student_Name": "Ajmal Latheef",
     "Student_Email": "jlatheefajmal@gmail.com",
     "Institution": "[Referred] College Of Engineering, Adoor",
     "Enrolment Date & Time": "Fri Apr 09 2021 13:16:19 GMT+0530 (India Standard Time)",
@@ -3580,7 +3580,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Femina N",
+    "Student_Name": "Femina N",
     "Student_Email": "nfemina55@gmail.com",
     "Institution": "[Referred] Government engineering college palakkad",
     "Enrolment Date & Time": "Fri Apr 09 2021 13:33:59 GMT+0530 (India Standard Time)",
@@ -3590,7 +3590,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Jojo Raincy",
+    "Student_Name": "Jojo Raincy",
     "Student_Email": "jojoraincy99@gmail.com",
     "Institution": "[Referred] Rajagiri School of Engineering & Technology",
     "Enrolment Date & Time": "Tue Apr 06 2021 11:48:30 GMT+0530 (India Standard Time)",
@@ -3600,7 +3600,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "ABY V.J",
+    "Student_Name": "ABY V.J",
     "Student_Email": "abyvjab@gmail.com",
     "Institution": "[Referred] GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "Enrolment Date & Time": "Fri Apr 09 2021 13:35:01 GMT+0530 (India Standard Time)",
@@ -3610,7 +3610,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Gopika s",
+    "Student_Name": "Gopika s",
     "Student_Email": "gopikasgopal00@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 13:37:50 GMT+0530 (India Standard Time)",
@@ -3620,7 +3620,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "Nishtha Khunteta",
+    "Student_Name": "Nishtha Khunteta",
     "Student_Email": "nishtha1507@gmail.com",
     "Institution": "[Referred] University of Petroleum and Energy Studies",
     "Enrolment Date & Time": "Fri Apr 09 2021 14:36:18 GMT+0530 (India Standard Time)",
@@ -3630,7 +3630,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "Safwan k",
+    "Student_Name": "Safwan k",
     "Student_Email": "safwankajas02@gmail.com",
     "Institution": "[Referred] Government engineering college idukki",
     "Enrolment Date & Time": "Fri Apr 09 2021 14:39:35 GMT+0530 (India Standard Time)",
@@ -3640,7 +3640,7 @@
     "Skill_Badges_Completed": 15
   },
   {
-    "Studen_Name": "AHAMMED BASIM CA",
+    "Student_Name": "AHAMMED BASIM CA",
     "Student_Email": "caabasim@gmail.com",
     "Institution": "[Referred] Collage of engineering, adoor",
     "Enrolment Date & Time": "Tue Apr 06 2021 15:52:50 GMT+0530 (India Standard Time)",
@@ -3650,7 +3650,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Juhil koshiya",
+    "Student_Name": "Juhil koshiya",
     "Student_Email": "juhilkoshiya22@gmail.com",
     "Institution": "[Referred] Veer narmad south gujarat university",
     "Enrolment Date & Time": "Fri Apr 09 2021 15:12:13 GMT+0530 (India Standard Time)",
@@ -3660,7 +3660,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Shankaranaryanan S",
+    "Student_Name": "Shankaranaryanan S",
     "Student_Email": "shankaranstudies@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 20:57:18 GMT+0530 (India Standard Time)",
@@ -3670,7 +3670,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Faizan sayeed",
+    "Student_Name": "Faizan sayeed",
     "Student_Email": "faizansayeed788@gmail.com",
     "Institution": "[Referred] GANDHI INSTITUTE FOR TECHNOLOGICAL ADVANCEMENT",
     "Enrolment Date & Time": "Fri Apr 09 2021 16:31:44 GMT+0530 (India Standard Time)",
@@ -3680,7 +3680,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Riya Singh",
+    "Student_Name": "Riya Singh",
     "Student_Email": "riyaworld15@gmail.com",
     "Institution": "[Referred] GITA",
     "Enrolment Date & Time": "Fri Apr 09 2021 16:57:28 GMT+0530 (India Standard Time)",
@@ -3690,7 +3690,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "Vishnumaya S Unni",
+    "Student_Name": "Vishnumaya S Unni",
     "Student_Email": "vishnumaya.s.unni@gmail.com",
     "Institution": "[Referred] Government Model Engineering College Thrikkakara",
     "Enrolment Date & Time": "Fri Apr 09 2021 16:58:22 GMT+0530 (India Standard Time)",
@@ -3700,7 +3700,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nandana Suresh",
+    "Student_Name": "Nandana Suresh",
     "Student_Email": "nandana15101999@gmail.com",
     "Institution": "[Referred] College of Engineering,Adoor",
     "Enrolment Date & Time": "Fri Apr 09 2021 17:25:38 GMT+0530 (India Standard Time)",
@@ -3710,7 +3710,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ayush Kumar",
+    "Student_Name": "Ayush Kumar",
     "Student_Email": "coderboss1155@gmail.com",
     "Institution": "[Referred] RVS academy",
     "Enrolment Date & Time": "Fri Apr 09 2021 17:30:21 GMT+0530 (India Standard Time)",
@@ -3720,7 +3720,7 @@
     "Skill_Badges_Completed": 11
   },
   {
-    "Studen_Name": "ananthu unni p",
+    "Student_Name": "ananthu unni p",
     "Student_Email": "errorx0002@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 23:28:09 GMT+0530 (India Standard Time)",
@@ -3730,7 +3730,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Adeena sathyachandran pt",
+    "Student_Name": "Adeena sathyachandran pt",
     "Student_Email": "adhusathya7@gmail.com",
     "Institution": "[Referred] GEC Palakkad",
     "Enrolment Date & Time": "Fri Apr 09 2021 18:25:46 GMT+0530 (India Standard Time)",
@@ -3740,7 +3740,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Athira . P",
+    "Student_Name": "Athira . P",
     "Student_Email": "panneriathira@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 18:33:43 GMT+0530 (India Standard Time)",
@@ -3750,7 +3750,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Vishnu kv",
+    "Student_Name": "Vishnu kv",
     "Student_Email": "Vishnukv540@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 18:34:07 GMT+0530 (India Standard Time)",
@@ -3760,7 +3760,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "JIBIN YESUDAS VARGHESE",
+    "Student_Name": "JIBIN YESUDAS VARGHESE",
     "Student_Email": "jibinjithinyesudas@gmail.com",
     "Institution": "[Referred] Rajiv Gandhi Institute of Technology, Kottayam",
     "Enrolment Date & Time": "Fri Apr 09 2021 18:47:13 GMT+0530 (India Standard Time)",
@@ -3770,7 +3770,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Leo Micheal Joy",
+    "Student_Name": "Leo Micheal Joy",
     "Student_Email": "leomichealjoy@gmail.com",
     "Institution": "[Referred] Mar Athanasius College of Engineering, Kothamangalam",
     "Enrolment Date & Time": "Fri Apr 09 2021 19:20:05 GMT+0530 (India Standard Time)",
@@ -3780,7 +3780,7 @@
     "Skill_Badges_Completed": 1
   },
   {
-    "Studen_Name": "Afnan A",
+    "Student_Name": "Afnan A",
     "Student_Email": "afzana303@gmail.com",
     "Institution": "[Referred] Government engineering college Idukki",
     "Enrolment Date & Time": "Fri Apr 09 2021 19:34:36 GMT+0530 (India Standard Time)",
@@ -3790,7 +3790,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Nagavaishnavi K",
+    "Student_Name": "Nagavaishnavi K",
     "Student_Email": "nagavaishnavikp@gmail.com",
     "Institution": "[Referred] R V College of Engineering",
     "Enrolment Date & Time": "Fri Apr 09 2021 19:39:00 GMT+0530 (India Standard Time)",
@@ -3800,7 +3800,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Adarsh Narayanan",
+    "Student_Name": "Adarsh Narayanan",
     "Student_Email": "aaa.narayanan@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Fri Apr 09 2021 20:08:57 GMT+0530 (India Standard Time)",
@@ -3810,7 +3810,7 @@
     "Skill_Badges_Completed": 12
   },
   {
-    "Studen_Name": "ANJALI KRISHNA",
+    "Student_Name": "ANJALI KRISHNA",
     "Student_Email": "anjalikrishna239@gmail.com",
     "Institution": "[Referred] MAR ATHANASIUS COLLEGE OF ENGINEERING, KOTHAMANGALAM",
     "Enrolment Date & Time": "Fri Apr 09 2021 20:23:58 GMT+0530 (India Standard Time)",
@@ -3820,7 +3820,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Siddhardh.R.Nair",
+    "Student_Name": "Siddhardh.R.Nair",
     "Student_Email": "siddhardh.r.nair@gmail.com",
     "Institution": "[Referred] College Of Engineering Adoor",
     "Enrolment Date & Time": "Fri Apr 09 2021 20:38:18 GMT+0530 (India Standard Time)",
@@ -3830,7 +3830,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Hensa Saleem",
+    "Student_Name": "Hensa Saleem",
     "Student_Email": "hensasaleem@pg.cusat.ac.in",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Thu Apr 08 2021 10:35:26 GMT+0530 (India Standard Time)",
@@ -3840,7 +3840,7 @@
     "Skill_Badges_Completed": 9
   },
   {
-    "Studen_Name": "Swathi Janardhanan p",
+    "Student_Name": "Swathi Janardhanan p",
     "Student_Email": "swathijanardhananp@gmail.com",
     "Institution": "[Referred] Collage of engineering Thalassery",
     "Enrolment Date & Time": "Fri Apr 09 2021 21:06:46 GMT+0530 (India Standard Time)",
@@ -3850,7 +3850,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Harikrishnan B",
+    "Student_Name": "Harikrishnan B",
     "Student_Email": "harikrishnan4274plr@gmail.com",
     "Institution": "[Referred] College of engineering Chengannur",
     "Enrolment Date & Time": "Fri Apr 09 2021 21:07:02 GMT+0530 (India Standard Time)",
@@ -3860,7 +3860,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "AKHIL MATHEW",
+    "Student_Name": "AKHIL MATHEW",
     "Student_Email": "mathewakhil15@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Tue Apr 06 2021 22:50:04 GMT+0530 (India Standard Time)",
@@ -3870,7 +3870,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "Adarsh S",
+    "Student_Name": "Adarsh S",
     "Student_Email": "vasthoopham.ky@gmail.com",
     "Institution": "[Referred] College of Engineering Trivandrum, Thiruvananthapuram",
     "Enrolment Date & Time": "Fri Apr 09 2021 21:33:29 GMT+0530 (India Standard Time)",
@@ -3880,7 +3880,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Apoorav singh",
+    "Student_Name": "Apoorav singh",
     "Student_Email": "apooravsingh38@gmail.com",
     "Institution": "[Referred] Motilal nehru National institute of technology",
     "Enrolment Date & Time": "Fri Apr 09 2021 21:53:17 GMT+0530 (India Standard Time)",
@@ -3890,7 +3890,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Ayush Das",
+    "Student_Name": "Ayush Das",
     "Student_Email": "ayush.code.202@gmail.com",
     "Institution": "[Referred] Maharaja surajmal institute of technology",
     "Enrolment Date & Time": "Fri Apr 09 2021 21:55:37 GMT+0530 (India Standard Time)",
@@ -3900,7 +3900,7 @@
     "Skill_Badges_Completed": 2
   },
   {
-    "Studen_Name": "SHEIK AHSAN",
+    "Student_Name": "SHEIK AHSAN",
     "Student_Email": "sheikahsan12@gmail.com",
     "Institution": "Cochin University College of Engineering, Kuttanad",
     "Enrolment Date & Time": "Wed Apr 07 2021 11:16:41 GMT+0530 (India Standard Time)",
@@ -3910,7 +3910,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "V Anandhukrishna",
+    "Student_Name": "V Anandhukrishna",
     "Student_Email": "anandhukrishnav@gmail.com",
     "Institution": "[Referred] Government Engineering college Idukki",
     "Enrolment Date & Time": "Fri Apr 09 2021 23:33:00 GMT+0530 (India Standard Time)",
@@ -3920,7 +3920,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Dani Yesudasan",
+    "Student_Name": "Dani Yesudasan",
     "Student_Email": "daniyesudasan9473@gmail.com",
     "Institution": "[Referred] College Of Engineerimg perumon",
     "Enrolment Date & Time": "Fri Apr 09 2021 23:52:13 GMT+0530 (India Standard Time)",
@@ -3930,7 +3930,7 @@
     "Skill_Badges_Completed": 0
   },
   {
-    "Studen_Name": "Arya raj",
+    "Student_Name": "Arya raj",
     "Student_Email": "aryarj878@gmail.com",
     "Institution": "[Referred] GITA,bhubaneshwar",
     "Enrolment Date & Time": "Fri Apr 09 2021 23:53:25 GMT+0530 (India Standard Time)",
