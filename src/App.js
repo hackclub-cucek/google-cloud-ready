@@ -169,7 +169,6 @@ function App() {
           <tr>
             <PersonTh>shamjith saji</PersonTh>
             <PersonTh>Akshay Joseph</PersonTh>
-
             <PersonTh>Hrishikesh Mahadev Gawas</PersonTh>
           </tr>
           <tr>
@@ -206,6 +205,26 @@ function App() {
           <tr>
             <PersonTh>Gopika s</PersonTh>
             <PersonTh>Safwan k</PersonTh>
+            <PersonTh>Harsh</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Salman Faris P P</PersonTh>
+            <PersonTh>Nisha A</PersonTh>
+            <PersonTh>Sreya S Raj</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Jishnu</PersonTh>
+            <PersonTh>Ahamed Favas</PersonTh>
+            <PersonTh>Sona Simon</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>TV Vrinda</PersonTh>
+            <PersonTh>Rehan Thomas</PersonTh>
+            <PersonTh>Justin Antony</PersonTh>
+          </tr>
+          <tr>
+            <PersonTh>Subhrajeet Shee</PersonTh>
+            <PersonTh>Ananthu Unni P</PersonTh>
           </tr>
         </PersonTable>
       </PersonDiv>
@@ -235,7 +254,7 @@ function App() {
       <br />
       <br />
       <h4>
-        Thanks For Your Support and Dedication 💟 
+        Thanks For Your Support and Dedication 💟
       </h4>
       <br />
       <br />
