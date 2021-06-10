@@ -239,8 +239,9 @@ function App() {
           </tr>
           <tr>
             <PersonTh>Safwan K</PersonTh>
+            <PersonTh>Aby V J</PersonTh>
+            <PersonTh>Devika U</PersonTh>
           </tr>
-
         </PersonTable>
       </PersonDiv>
       <br />
