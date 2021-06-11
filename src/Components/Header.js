@@ -23,27 +23,7 @@ const Header = () => {
         </Contdiv>
         {/* width="560" height="315"  */}
       </HeaderImg>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
+
     </>
   )
 }
