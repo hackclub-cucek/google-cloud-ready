@@ -78,32 +78,6 @@ function App() {
       <br />
       <br />
       <br />
-      <br /><br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br /><br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br /><br />
-      <br />      <br />
-      <br />
-      <br />
-      <br /><br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br /><br />
-      <br />      <br />
-      <br />
-      <br />
-      <br /><br />
-      <br />      <br />
-      <br />
       <SearchSection>
         <SearchForm>
           <SearchInput

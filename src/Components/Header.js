@@ -16,11 +16,34 @@ const Header = () => {
           <br />
         </Headerh3>
         <Contdiv>
-        <Resiframe src="https://www.youtube.com/embed/71hvFef5Y-I" >
+          <center>
+          <Resiframe src="https://www.youtube.com/embed/71hvFef5Y-I" >
         </Resiframe>
+        </center>
         </Contdiv>
         {/* width="560" height="315"  */}
       </HeaderImg>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
     </>
   )
 }
@@ -30,7 +53,7 @@ const HeaderImg = styled.header`
   align-items: center;
   justify-content: center;
   @media (min-width: 480px) and (max-width: 768px) {
-    height: 200px;
+    height: 120px;
   }
   @media (max-width: 479px) {
     height: 100px;
@@ -46,18 +69,29 @@ const Contdiv = styled.div`
 
 const Resiframe = styled.iframe`
   position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
+  top: 5%;
+  left: 25%;
+  width: 50%;
+  height: 50%;
   border: none;
+  @media (min-width: 480px) and (max-width: 768px) {
+    
+    top: 0;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+  }
+  @media (max-width: 479px) {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 `;
 
 const Headerh1 = styled.h1`
   @media (min-width: 480px) and (max-width: 768px) {
-    height: 200px;
+    height: 120px;
   }
   @media (max-width: 479px) {
     height: 100px;
@@ -66,7 +100,7 @@ const Headerh1 = styled.h1`
 
 const Headerh3 = styled.h3`
   @media (min-width: 480px) and (max-width: 768px) {
-    height: 200px;
+    height: 120px;
   }
   @media (max-width: 479px) {
     height: 50px;
@@ -76,7 +110,7 @@ const Headerh3 = styled.h3`
 const Image = styled.img`
    width: 400px;
    @media (min-width: 480px) and (max-width: 768px) {
-    width: 200px;
+    width: 120px;
   }
    @media (max-width: 479px) {
     width: 100px;
