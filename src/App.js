@@ -75,30 +75,11 @@ function App() {
   return (
     <DivContainer className="App">
       <Header />
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
       <br />
-      <br />
-      <br />
+      <Contdiv>
+          <Resiframe src="https://www.youtube.com/embed/71hvFef5Y-I" >
+        </Resiframe>
+      </Contdiv>
       <SearchSection>
         <SearchForm>
           <SearchInput
@@ -445,5 +426,33 @@ export const Cardstrong = styled.strong`
   margin-right: 1rem;
 `;
 
+const Contdiv = styled.div`
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+`;
+
+const Resiframe = styled.iframe`
+  position: absolute;
+  top: 5%;
+  left: 25%;
+  width: 50%;
+  height: 50%;
+  border: none;
+  @media (min-width: 480px) and (max-width: 768px) {
+    
+    top: 0;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+  }
+  @media (max-width: 479px) {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+`;
 
 export default App;
