@@ -77,6 +77,33 @@ function App() {
       <Header />
       <br />
       <br />
+      <br />
+      <br /><br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br /><br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br /><br />
+      <br />      <br />
+      <br />
+      <br />
+      <br /><br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br /><br />
+      <br />      <br />
+      <br />
+      <br />
+      <br /><br />
+      <br />      <br />
+      <br />
       <SearchSection>
         <SearchForm>
           <SearchInput
