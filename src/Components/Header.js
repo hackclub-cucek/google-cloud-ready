@@ -6,9 +6,13 @@ const Header = () => {
   return (
     <HeaderImg>
       <Image src={logo} alt='vikings' />
-      <Headerh5>
-        This is the Final Update 🚀 
-      </Headerh5>
+      <Headerh1>
+      This is the Final Update 🚀 
+      </Headerh1>
+      <Headerh3>
+      Attend The Wrap-Up Session Today @3:30 PM IST For The Next Steps
+      <a href="https://youtu.be/71hvFef5Y-I">Click here</a>
+      </Headerh3>
     </HeaderImg>
   )
 }
@@ -25,7 +29,16 @@ const HeaderImg = styled.header`
   }
 `;
 
-const Headerh5 = styled.h5`
+const Headerh1 = styled.h1`
+  @media (min-width: 480px) and (max-width: 768px) {
+    height: 200px;
+  }
+  @media (max-width: 479px) {
+    height: 100px;
+  }
+`;
+
+const Headerh3 = styled.h3`
   @media (min-width: 480px) and (max-width: 768px) {
     height: 200px;
   }
