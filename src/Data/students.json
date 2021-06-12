@@ -707,7 +707,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://run.qwiklabs.com/public_profiles/63773105-d846-4a60-a4e5-ae5fbfb10898",
         "Quests_Completed": "24",
-        "Skill_Badges_Completed": "13"
+        "Skill_Badges_Completed": "12"
     },
     {
         "Student_Name": "ALLEN THOMAS",
@@ -1027,7 +1027,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/4c32ff1f-f7d5-47f3-8590-7fd04b6fefeb",
         "Quests_Completed": "10",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shruti Santosh",
@@ -1057,7 +1057,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/410fd268-3acd-47cf-8ee1-9f3eed8b8d34",
         "Quests_Completed": "10",
-        "Skill_Badges_Completed": "7"
+        "Skill_Badges_Completed": "6"
     },
     {
         "Student_Name": "Anjana Manoj",
@@ -1077,16 +1077,6 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ffba6902-e07e-4dd5-9242-0c39d96b7178",
         "Quests_Completed": "9",
-        "Skill_Badges_Completed": "5"
-    },
-    {
-        "Student_Name": "Joel Sunny Varghese",
-        "Student_Email": "joelsunny495@gmail.com",
-        "Institution": "[Referred] Sree Buddha College of Engineering Pattoor",
-        "Enrolment Date & Time": "Fri Apr 02 2021 23:56:14 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/55fe2767-813c-4c03-92ec-267b801d8104",
-        "Quests_Completed": "8",
         "Skill_Badges_Completed": "5"
     },
     {
@@ -1127,7 +1117,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/58f132b5-096d-4b2a-9066-dd5a0cdcf3da",
         "Quests_Completed": "8",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Athul Cp",
@@ -1137,7 +1127,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f4fe101d-1fd8-4724-8166-edcd40b469ba",
         "Quests_Completed": "8",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "KELVIN P ANEESH",
@@ -1157,7 +1147,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/38a66e4c-2f6b-4e1a-a0c1-a788b581e15e",
         "Quests_Completed": "8",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Jeffin John Kottaram",
@@ -1207,7 +1197,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/821c8652-5485-4b96-8a17-e72d2ffb9d0c",
         "Quests_Completed": "8",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Sreeraj I S",
@@ -1217,7 +1207,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0d3d3caa-a055-4f76-8790-450f5b79483f",
         "Quests_Completed": "8",
-        "Skill_Badges_Completed": "4"
+        "Skill_Badges_Completed": "3"
     },
     {
         "Student_Name": "ANTONY GODWIN S",
@@ -1237,7 +1227,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/9ea610d8-5f82-465b-8c93-b320257abd77",
         "Quests_Completed": "8",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Niya Jain",
@@ -1247,7 +1237,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/95b7c9b8-2a71-4619-b68a-ff53a71a3d3f",
         "Quests_Completed": "8",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Ghinson K Varkey",
@@ -1257,7 +1247,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/77fc06a0-a237-49c5-8f21-a246f25e7b4f",
         "Quests_Completed": "7",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Geethika P",
@@ -1267,7 +1257,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/67c70c77-3671-4120-87ee-37ad911e0d12",
         "Quests_Completed": "6",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Misba Asif Sayyad",
@@ -1277,7 +1267,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/0a3cf027-9ea4-4605-870f-d9990306a743",
         "Quests_Completed": "6",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SREEDEV D",
@@ -1307,7 +1297,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/35ea31ff-5643-447c-a859-034f40bf6553",
         "Quests_Completed": "6",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Aakash Roy",
@@ -1317,7 +1307,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/069a02aa-1527-4b33-9519-bb5bfdcc39e9",
         "Quests_Completed": "5",
-        "Skill_Badges_Completed": "5"
+        "Skill_Badges_Completed": "4"
     },
     {
         "Student_Name": "Cicy K Agnes",
@@ -1326,16 +1316,6 @@
         "Enrolment Date & Time": "Sat Apr 03 2021 10:31:31 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/171c1638-b213-4ac0-aa45-13d4e7b50d61",
-        "Quests_Completed": "5",
-        "Skill_Badges_Completed": "2"
-    },
-    {
-        "Student_Name": "Anand Anto",
-        "Student_Email": "anandanto2001@gmail.com",
-        "Institution": "[Referred] Rajagiri School of Engineering and Technology",
-        "Enrolment Date & Time": "Wed Apr 07 2021 11:57:28 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/bac2eba4-202a-4024-8411-70bed222d05a",
         "Quests_Completed": "5",
         "Skill_Badges_Completed": "1"
     },
@@ -1347,17 +1327,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/b7a53059-b49d-42a0-929f-393ac5a485bb",
         "Quests_Completed": "5",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Harsh Upparwal",
-        "Student_Email": "500067853@stu.upes.ac.in",
-        "Institution": "[Referred] University of Petroleum and Energy Studies, Dehradun",
-        "Enrolment Date & Time": "Tue Apr 06 2021 13:48:27 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/2d118859-1332-46f2-a439-efacfade7680",
-        "Quests_Completed": "4",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ALBERT JOE JUSTINE",
@@ -1367,7 +1337,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0f78d3ea-a808-45db-b8ab-ec1a8435b170",
         "Quests_Completed": "4",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "sanket ramdas sonavane",
@@ -1377,7 +1347,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/4ca88789-98ed-4caa-916c-4f5f20bc172b",
         "Quests_Completed": "4",
-        "Skill_Badges_Completed": "4"
+        "Skill_Badges_Completed": "3"
     },
     {
         "Student_Name": "Caina Rose Paul",
@@ -1387,7 +1357,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/9d333f4c-bece-4aad-8bbf-740b0a57919e",
         "Quests_Completed": "3",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Shine Joseph",
@@ -1397,7 +1367,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/08e42129-319a-4271-9cbb-f2f846231f4e",
         "Quests_Completed": "3",
-        "Skill_Badges_Completed": "4"
+        "Skill_Badges_Completed": "3"
     },
     {
         "Student_Name": "VARSHA V T",
@@ -1407,7 +1377,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/89a81630-04bc-4ef4-bcc3-ac4ad3bda989",
         "Quests_Completed": "3",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Philona Reetha Sebastian",
@@ -1417,7 +1387,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e8b670fa-6b0b-49e2-9732-522f163e571a",
         "Quests_Completed": "3",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "ADHWAITH S",
@@ -1427,7 +1397,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/60d5fd05-f439-446f-841a-dbbec046dece",
         "Quests_Completed": "3",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "Aleena Pascal",
@@ -1437,7 +1407,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/66745934-aeca-44d3-9338-11e18ff9b05c",
         "Quests_Completed": "3",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Aswinchandra",
@@ -1447,7 +1417,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/18956a25-127b-448a-9065-55c28eff0c73",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Akhil B",
@@ -1457,7 +1427,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/dbd9b376-54bf-4b2c-a79d-ac5d14c13ba6",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "RIYA ROSE JAMES",
@@ -1467,7 +1437,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ea56d764-51d6-499a-b706-ec02b9567f2b",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "AKSHAY A",
@@ -1477,7 +1447,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/a261f125-8c6f-426b-8211-ae4fe7bec558",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Adithyaraj V P",
@@ -1487,7 +1457,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0d95cef3-fe7c-4589-9456-db93bb50569b",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Amitesh Patnaik",
@@ -1497,7 +1467,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/896396d1-200e-43b0-b2d0-5e7ec06eff23",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "priyanshu jain",
@@ -1507,7 +1477,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/110bf4b9-4301-4e4f-ad98-5acfb9acfb52",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "SARANG S",
@@ -1517,7 +1487,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3649ff8f-249c-4f0c-a950-da5db8184d5e",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "Jayaraj R",
@@ -1527,7 +1497,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/2f85a725-34fd-4d02-9268-c390cbbaefad",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Bhanu Prakash",
@@ -1537,7 +1507,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e704657c-4a0b-4c2e-ac67-7a6667203e82",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ANAS DAVOOD TK",
@@ -1547,7 +1517,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/5942c74d-2c74-4a0b-8f9b-9986b3a26d93",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Vishnu Prasad.R",
@@ -1557,7 +1527,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/54834d13-eddf-45e5-8393-075f15faa54b",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "Thejas K P",
@@ -1567,7 +1537,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/8b4e0d78-3b0b-41b4-a6e6-0281c9cbc5e9",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Ameena Farooq VP",
@@ -1577,7 +1547,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/5925d91d-2a38-4010-a993-fbd8590fc0bd",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sruthy J Mallya",
@@ -1587,7 +1557,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/76035d10-6993-4d0c-9aac-728c313c7914",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Reshma Murali",
@@ -1597,7 +1567,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/338702ec-c073-448e-ab37-11b0d1c05864",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "KRISHNA C",
@@ -1607,7 +1577,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/61c1d2bc-ca53-4730-8bbe-31db527aec9f",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "Nipun Raj",
@@ -1617,7 +1587,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/650ed2ba-28fb-41c5-b5ab-702daffeefd9",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Kowsik Nandagopan D",
@@ -1627,7 +1597,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1131946a-23fa-4015-bd76-85934602652e",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Jomon Joseph",
@@ -1637,7 +1607,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3cbd4f27-9396-43c8-9fd9-3b958d24524e",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "FATHIMA K P",
@@ -1647,7 +1617,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c0db28e4-4b32-439f-9364-4c12fcf99ccf",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "ananthu unni p",
@@ -1657,7 +1627,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/21f24d80-1456-4486-8a70-233d076acc43",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "AKHIL MATHEW",
@@ -1667,7 +1637,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2831de0e-4f51-476b-91c4-bef1ad994357",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "Ayush Das",
@@ -1677,7 +1647,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/6b06222f-c00c-48c3-92c7-2f0ba8cda574",
         "Quests_Completed": "2",
-        "Skill_Badges_Completed": "3"
+        "Skill_Badges_Completed": "2"
     },
     {
         "Student_Name": "Krishna Priya T R",
@@ -1687,7 +1657,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b58f18e8-d70c-48b9-92e2-b8b83e52bcf7",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nanda Unnimaya K",
@@ -1697,7 +1667,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/40582cc7-8331-4edd-a7af-d371655cecbb",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Aswaghosh S",
@@ -1707,7 +1677,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3d35770a-49ec-4471-b879-e83f6491614c",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Aarathy U.Wilson",
@@ -1717,7 +1687,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/84619f1a-d980-4b46-91ab-c02a344d16e3",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Abdirahman Issa",
@@ -1727,7 +1697,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/4e924825-3093-48a5-a750-bf79c403799f",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Aniket",
@@ -1737,7 +1707,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f358ca8d-5d4f-462e-9d66-4a833021489f",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Adwait Dathan R",
@@ -1747,7 +1717,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1f3b4a1b-2cfb-4b7f-9204-5af3b935b745",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anson Jose",
@@ -1757,7 +1727,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/17657f09-4697-45b4-a6d3-14d5ab707fd7",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Navaneeth Krishna E S",
@@ -1767,7 +1737,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6e6b6cea-5eb9-4373-979c-5b1973ec71f7",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "sanjith s",
@@ -1777,7 +1747,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://run.qwiklabs.com/public_profiles/e4a8043a-ddb5-400d-83ee-6e7192e302f3",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Pulickattil Jebin Joseph",
@@ -1787,7 +1757,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1301e7b4-6a8e-4502-a64a-f6696d778a0a",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Rompy Roshni",
@@ -1797,7 +1767,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e46db85c-52ff-4868-a436-8dc41dbd28be",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anson Benny",
@@ -1817,7 +1787,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0157ad3c-e965-4bdb-bdec-4733f40a33fc",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "JosephThomas",
@@ -1827,7 +1797,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d6d3aa3f-7928-437b-a100-9a63a066b17c",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nikhil Jose",
@@ -1837,7 +1807,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/743449f9-2a05-4c0f-a4ee-13512251ada5",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shagul Hameed",
@@ -1847,7 +1817,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/fd7323f4-18d3-4ef7-addf-f1711095b521",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "NITHIN R",
@@ -1857,7 +1827,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e2598d29-2b45-462e-a99e-da639be119ca",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Stephy A S",
@@ -1867,7 +1837,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/af36eb4a-8594-4b02-89cb-9eec66a1abfe",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "HARIKRISHNAN KB",
@@ -1877,7 +1847,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/02c3a476-e4f9-4c84-985b-8e0c4abb7f42",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Neethu Skaria",
@@ -1887,7 +1857,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/76304029-23f7-4dc3-98df-96da2a307458",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Jojo Raincy",
@@ -1897,7 +1867,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/5a2368ff-1716-4fdb-bee7-90ca3f91f060",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "AHAMMED BASIM CA",
@@ -1907,17 +1877,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/fc86e681-ca75-47cd-a657-dfcd61748d91",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Faizan sayeed",
-        "Student_Email": "faizansayeed788@gmail.com",
-        "Institution": "[Referred] GANDHI INSTITUTE FOR TECHNOLOGICAL ADVANCEMENT",
-        "Enrolment Date & Time": "Fri Apr 09 2021 16:31:44 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c2fd1728-f7cc-4de2-92fd-e4868a6e57b0",
-        "Quests_Completed": "1",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "JIBIN YESUDAS VARGHESE",
@@ -1927,7 +1887,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d4ba7a91-d66a-4603-a7c4-f13a98cfe2dd",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Leo Micheal Joy",
@@ -1937,7 +1897,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2d66b57f-9b96-4f6d-989c-3092467b1df1",
         "Quests_Completed": "1",
-        "Skill_Badges_Completed": "2"
+        "Skill_Badges_Completed": "1"
     },
     {
         "Student_Name": "Aryanand Arnav",
@@ -1947,7 +1907,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/48c88189-68f4-4be8-83e1-2b8387d4b246",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Abhilasha Kumari",
@@ -1957,7 +1917,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ec4bf55b-1833-4ff5-a3c5-54a0bfbb7b00",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Ayushi Singh",
@@ -1967,7 +1927,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/7625caba-7dae-4b1a-8cc6-b4f33caee351",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "AABHANJALI SHEETAL",
@@ -1977,7 +1937,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/40cbbc5e-d447-4244-b410-dca787fca0a4",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anandakrishnan RS",
@@ -1987,7 +1947,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/2b9e1827-1634-475a-aa5d-07f49551ca44",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Harikrishnan P R",
@@ -1997,7 +1957,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/06a5cc84-e990-4c9f-825c-c3c27b4c7a06",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Muhammed Naseeb EK",
@@ -2017,7 +1977,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/fcb7489f-848f-4c3a-9faf-47b6824b908f",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Abdul Adhil PK",
@@ -2027,7 +1987,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/8184209b-0216-4a22-8646-b45aa2a8b5c5",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Akshay Benny",
@@ -2037,7 +1997,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0478da71-7612-4bd0-8ede-ebf7a34c72d9",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Tom George Grigory",
@@ -2047,7 +2007,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/48ea9ccb-9292-4b3b-84db-84599e8aa1b8",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shivani Chauhan",
@@ -2057,7 +2017,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://run.qwiklabs.com/public_profiles/908a0168-ec0a-45d6-b540-07a8542cff86",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Vipul Kumar",
@@ -2067,7 +2027,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/54eb30db-889d-4794-ac85-70801219fa6b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Muhammed Risin",
@@ -2077,7 +2037,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/a9ca2201-a7ae-48f4-884e-7efca2207a73",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sarath T S",
@@ -2087,17 +2047,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c2423c78-a667-4b0a-a966-31cb9c9485a0",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Athira",
-        "Student_Email": "athiratjthanaly83@gmail.com",
-        "Institution": "[Referred] Government Engineering College Idukki",
-        "Enrolment Date & Time": "Sat Apr 03 2021 13:07:19 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/ac67e0e3-eb89-4e17-ade0-5223d4725eab",
-        "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "MD SHADAN",
@@ -2107,7 +2057,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2b8f331a-0c27-4a5b-9993-72fcd38cfe84",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Muhammed Ajmal T",
@@ -2117,7 +2067,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/1672f38b-5c94-493f-aae6-f97bb24551eb",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Lalan Kumar",
@@ -2127,7 +2077,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d339e1c9-c200-472a-94f7-a35835939d47",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "syam suresh p c",
@@ -2147,7 +2097,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ab6b2282-0139-435b-bbb1-4c8c7d165c69",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shivam Prakash",
@@ -2157,7 +2107,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/af26a99c-0476-4f48-a872-0fd7e8b059a0",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Saravanan Sellamuthu",
@@ -2167,7 +2117,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d1980866-6b2b-4b5d-832e-2a112fdfde8c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Aadith S",
@@ -2177,7 +2127,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/90127e2e-c18c-42a1-8b62-20546c3e9b78",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Misba Hunnisa TM",
@@ -2187,7 +2137,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f09aa374-bad3-4a9d-a7a3-81f6681c34d3",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Athira",
@@ -2197,7 +2147,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/1000380a-09ce-4951-85f4-513ae2d856c9",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Afras Aboobacker P",
@@ -2207,7 +2157,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/647089a7-5c66-49f0-b45c-c532f4ea00fc",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Fenil Sunny",
@@ -2217,7 +2167,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1def1ad7-d14d-4f5d-a99f-50847218ca02",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ADIL S",
@@ -2227,17 +2177,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/c431e427-17f5-4a66-822a-9aeb1fb34cdc",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "ADIL S",
-        "Student_Email": "adils5075@gmail.com",
-        "Institution": "[Referred] Government Engineering College, Idukki",
-        "Enrolment Date & Time": "Sat Apr 03 2021 19:58:38 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/0223194c-bd72-42ec-ba1b-7c8e07f3672a",
-        "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Farhana k",
@@ -2247,7 +2187,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/9c34417d-8357-4b9f-b5af-60cf321bbed9",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "jewel jacob",
@@ -2267,7 +2207,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/111814a0-af6c-41dc-8a74-b72b9b92fde2",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Bonny B",
@@ -2277,7 +2217,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6482b00d-6fca-4d17-92c2-11be941c931c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "AKSHAY AN",
@@ -2287,7 +2227,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/28c8fcbe-e3d1-46fd-ab0b-df3fccfcd35c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Pratik Mukharu Raut",
@@ -2297,7 +2237,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/87934601-976d-4aac-b6c7-0a9233e6ce69",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Thaseen Nazar",
@@ -2307,7 +2247,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6888eae8-c157-4e0b-98dc-fe3911511cf2",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Abhishek S",
@@ -2317,7 +2257,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/55e1add3-473e-44cc-9536-8ded402c2d03",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Ananthu A",
@@ -2327,7 +2267,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f20b9b8d-21ff-4e78-a033-c302f259095b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Arjun J",
@@ -2337,17 +2277,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2eefd97e-35e5-44d9-a3e3-61931513428e",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Alwin Joseph",
-        "Student_Email": "alwinjoseph48@gmail.com",
-        "Institution": "[Referred] Government Engineering College Palakkad",
-        "Enrolment Date & Time": "Fri Apr 02 2021 22:37:02 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/c499e85b-791f-4b6d-8f85-42b58ca9181e",
-        "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Alwin Joseph",
@@ -2357,7 +2287,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/6a0ef9c6-0abc-4749-87d5-6952ba26a8c5",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "AVINASH KUMAR",
@@ -2367,17 +2297,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/5d690213-605e-46be-a262-474e3996e307",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Hitesh Sukhwani",
-        "Student_Email": "hiteshsukhwani29@gmail.com",
-        "Institution": "[Referred] Bharati Vidyapeeth Deemed University College Of Engineering, Pune",
-        "Enrolment Date & Time": "Mon Apr 05 2021 17:54:14 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/a9570aa9-df36-499b-8f4c-4ebbe063ca74",
-        "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Avinash Agarwal",
@@ -2387,7 +2307,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/913c66b0-8d2d-4439-83d8-8779b57c8ea1",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Akhilesh K Saju",
@@ -2397,7 +2317,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6608e497-2398-4752-8c79-5253631d194b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Adal Adwaid Vikas",
@@ -2407,7 +2327,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c448e23e-47c7-426e-a3b0-b21b3e4e8c74",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anjana A S",
@@ -2417,7 +2337,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1ec61f0e-4b96-4aca-ad47-441c30f11cda",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nagavaishnavi K",
@@ -2427,7 +2347,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/dd86a840-0d75-4725-b582-7d2d0a55173d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Raichel Moncy",
@@ -2437,7 +2357,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/2ba0553c-695a-4f4b-8ddd-a7e3de3bf20b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "RITHU R",
@@ -2447,7 +2367,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/77f44088-1462-4e28-b112-2eecab0283ca",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anurag Jain",
@@ -2457,7 +2377,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/43faceeb-4808-4ec6-a78a-dcc6aab08225",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ABHIJITH RAM P",
@@ -2467,7 +2387,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/0aefa4fd-9d3f-4156-8875-7460dca4148d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anandha Krishnan V S",
@@ -2477,7 +2397,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/6e850fb2-ff21-4759-9043-2695d8cc8cb6",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anusree V",
@@ -2487,7 +2407,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/e3e2b5f1-526a-4a0b-aed5-0f11adfe9689",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anoos M",
@@ -2497,7 +2417,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/8f367b32-86ca-443b-aae4-ff8fb78f9c55",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "sajjan gandla sai navya",
@@ -2507,7 +2427,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7fb5b271-b28b-4cdb-8ba4-349177868c00",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ANN MARIA MATHEW",
@@ -2517,7 +2437,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/db1258cb-e614-4f19-a503-59697b7c9675",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sachin Singh Singh Yadav",
@@ -2527,7 +2447,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/72bc5e0d-7b49-4963-8f85-5cd9cb37232b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Abhijeet kumar",
@@ -2537,7 +2457,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3787d506-38e3-428a-ac56-8a575e2b1da0",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Akshay R K",
@@ -2547,7 +2467,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/46b6381f-e4f4-4ece-bf51-a5331b74c907",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "LAKSHMY K L",
@@ -2557,7 +2477,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/9a6d60bb-6b73-416b-b994-3a4bd72e1383",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "AJO BENNY",
@@ -2567,7 +2487,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/449606e4-f0bc-470b-a144-d37c75b097f4",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "John P Abraham",
@@ -2577,7 +2497,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e4cb21ff-1a71-484a-b6a5-f5fd44d97f79",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SUSAN BABY",
@@ -2587,7 +2507,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c2630cee-c121-4b32-837d-4cc1d92afa55",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Pankhuri Tomar",
@@ -2597,7 +2517,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/133c5c7c-fe11-4d7e-bd19-d71ddc041293",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Kriti Gaurav",
@@ -2617,7 +2537,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/f8bd888b-2bfe-400b-9a87-a437d06c45d8",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "RIYA ELEN JOHN",
@@ -2627,7 +2547,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/06f8dacc-f356-4aa7-96ab-1e43bf51a401",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "BIKU PHILIP POTHEN",
@@ -2637,7 +2557,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/86af9745-d236-485f-973b-b7fabd0d2497",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Arshak Rehiman",
@@ -2647,7 +2567,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/589d91ad-656c-4444-83f6-df727785ccc8",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Saneef TT",
@@ -2657,7 +2577,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/3e05c865-98ff-4a33-b131-7c22c45357d8",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "MOHAMMED NIHAL PK",
@@ -2667,7 +2587,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7c2184bf-916c-4155-9aa4-038677ad132e",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sam Sunny",
@@ -2677,7 +2597,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/bb1d0d51-75c4-433d-b340-11b64df1b84d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SALIQ K",
@@ -2687,7 +2607,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e2395553-094f-4901-957a-2210e52b35b5",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Muhammed Vasim K K",
@@ -2697,7 +2617,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/aba6861d-5502-494d-8515-6d17b7964c84",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Hamza Maqbool Farooqi",
@@ -2707,7 +2627,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/0563376a-a127-4cf2-b3e4-b9e2fe767213",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "VISHAL B",
@@ -2717,7 +2637,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6aea65d7-d087-42ed-9be2-d591877e45b3",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "HEBA FATHIMA",
@@ -2727,7 +2647,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b872e972-5cef-4ebb-92d6-9c4e964a856b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nayana Girish",
@@ -2737,7 +2657,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b2393d7c-c7c6-43d4-b667-9206d9d2a106",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Abina K P",
@@ -2747,7 +2667,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c5dc46ae-bba6-4d25-97c0-175d2aecaf99",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Arvin Kaiyalethu Mathew",
@@ -2767,7 +2687,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/6eddbd9f-54fa-4643-b184-3d87f5a184b3",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Siddhanth Andani",
@@ -2777,7 +2697,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/569343f7-7da3-4746-8325-3d6cfd94c769",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Claude Berenger Korandji",
@@ -2787,7 +2707,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/cf67519c-9326-4b62-b2d8-4ad11336aab4",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Kaushal Jha",
@@ -2797,7 +2717,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/62ad406f-c485-484f-8edc-b78e85832946",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Haseena Hassan",
@@ -2806,16 +2726,6 @@
         "Enrolment Date & Time": "Sat Apr 03 2021 18:23:43 GMT+0530 (India Standard Time)",
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d30f92b7-58d3-4253-beca-a70a7d734671",
-        "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Riya pk",
-        "Student_Email": "riyapk505@gmail.com",
-        "Institution": "[Referred] Government engineering college idukki",
-        "Enrolment Date & Time": "Tue Apr 06 2021 15:30:18 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "Wrong Qwiklabs Public Profile URL",
-        "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/",
         "Quests_Completed": "0",
         "Skill_Badges_Completed": "0"
     },
@@ -2827,7 +2737,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d840a344-36b1-4005-90e2-ee4dd67048e9",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SURAJ ROY",
@@ -2837,7 +2747,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7eb9c840-7a75-4bc0-a864-726d30115ca1",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Mithun Xavior",
@@ -2847,7 +2757,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2eeb4566-50fa-4d4e-83a8-178ba2dc1305",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Merrin Chacko",
@@ -2857,7 +2767,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://run.qwiklabs.com/public_profiles/54eae1ec-e1eb-4e1e-961d-ddc5bcdfb3dc",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Avani S",
@@ -2867,7 +2777,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/defa97f8-ed26-4ff2-8c3a-452e06913e0f",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "BHANU PRATAP SINGH",
@@ -2877,7 +2787,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d8fcbc70-74e1-4146-8242-26ee2671c5d2",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SREEDEV D",
@@ -2887,7 +2797,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/5f56abc2-15e8-40fd-a28c-23d5e64512bc",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Albit Sunny",
@@ -2897,7 +2807,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/04042b8a-539b-4773-a33c-b6e574cfab8a",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "GOVIND AJAYAN V",
@@ -2907,7 +2817,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f4b540fd-2e3c-4113-b80d-f54684d73da9",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Rohini Nair",
@@ -2917,7 +2827,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/36c65342-b593-410b-a35f-799182efbb0a",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Varadha VR",
@@ -2927,7 +2837,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/74b75d4f-07da-47fd-94e3-168afd969e12",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Anirudh mv",
@@ -2937,7 +2847,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/ecf8b157-6248-458a-962c-5131a43c5409",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Fathima Hanan",
@@ -2947,7 +2857,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7d91e787-10db-481c-8adb-671298974831",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shithin Raj",
@@ -2957,7 +2867,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2eeae65a-bb2e-419f-ad39-4fa2ad30b7b6",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Aiswarya Mahesh",
@@ -2967,7 +2877,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0287458d-e5c5-4852-aa0a-59eae544cc1c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Roshen Raju",
@@ -2977,7 +2887,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1bdaca8e-dbd8-4f75-b666-bd6859de6d14",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Ajith D",
@@ -2987,7 +2897,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/fe55190f-befb-460b-b2de-666acce90890",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Alwin joy N",
@@ -2997,7 +2907,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/8adbafc0-cf11-4f4d-81d2-15cb2c547e68",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Vishnu R",
@@ -3007,7 +2917,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/5f112d61-4b43-434c-9c38-800e6ce1f74b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sourav S Kumar",
@@ -3017,7 +2927,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/176d7849-a955-4ebb-8c8c-bd9df5225a43",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Bintu Binu Thomas",
@@ -3027,7 +2937,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2bf96b2e-f2e4-4ba0-b310-30006fd8ebb8",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "MUHAMMED MIDHILAJ U",
@@ -3037,7 +2947,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/20dfd572-f5c8-4952-ad53-6ef5d42bd6f2",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Haseena Hassan",
@@ -3047,7 +2957,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/38e261f4-4d1e-4c28-8af5-f1cc47da728c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Muhammed Rebin P",
@@ -3057,7 +2967,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/52a58440-076b-4842-8b1a-81e87a56143a",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Syed",
@@ -3067,7 +2977,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/fdea9a65-fb45-4084-9ddb-04b0128f0c64",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Rahul Gopan",
@@ -3077,7 +2987,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f01713f5-2795-43e3-b9c9-94f4ba0ee3af",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "U KRISHNANUNNI",
@@ -3087,7 +2997,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2c220826-3755-465b-9f68-d4ce75dbec27",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "THOMASAVIO",
@@ -3097,7 +3007,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/a16fd1ab-a51a-4fd4-baef-6eb67d334865",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ARJUN V",
@@ -3107,7 +3017,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/753bc046-c133-4348-8810-f80ee4685e91",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "MUHAMMED NITHAL",
@@ -3117,7 +3027,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e69aa424-1d9c-4661-983a-30c3b5b0b9d2",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Salvin Jose K",
@@ -3127,7 +3037,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/c8183421-cfb5-47df-963d-e2f3568d953f",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Alan John Francis",
@@ -3137,17 +3047,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7ba2d0dc-2d7a-4b2b-96a1-88098a17980a",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Tanya Sunish",
-        "Student_Email": "tanyasunish500@gmail.com",
-        "Institution": "[Referred] Rajagiri school",
-        "Enrolment Date & Time": "Wed Apr 07 2021 11:51:01 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/d38e8a95-9501-4272-b074-b93906210416",
-        "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "JITHIN T",
@@ -3157,7 +3057,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/5f50f916-a257-4eb0-b078-b1501c09e209",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Muktiyar",
@@ -3167,7 +3067,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b2f2a73d-72dc-45c4-9cf9-29bc4f639506",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sam Sunny",
@@ -3177,7 +3077,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7b5d6c4c-79a4-4625-b17c-3a8cee7a4c55",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Fyrooz Husain",
@@ -3187,7 +3087,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/43c0f6b6-205c-47de-a2c9-739963a865fb",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Hariharan Velappan",
@@ -3197,7 +3097,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/98727e82-33f2-48e7-b909-fbf77d57daa9",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "AKASH S KUMAR",
@@ -3207,7 +3107,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b0691b46-fec2-45de-a032-58c4c5298160",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SHAHIL AM",
@@ -3217,7 +3117,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/a1beef0d-2059-41bd-8848-81e8690ad72a",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "FATHIMA S S",
@@ -3227,7 +3127,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/26fe5685-a784-4a24-852a-5b38a73b3169",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shridhar Avinash",
@@ -3237,7 +3137,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b679a98f-5955-47c0-be21-e83f389d0635",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Ronish C Wilson",
@@ -3247,7 +3147,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f3ffe0f5-dfbc-4618-9147-b68b363ecd0d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sreekripa K",
@@ -3257,7 +3157,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ca67f327-b653-429f-990e-a7f725575177",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Monish Kumar Bairagi",
@@ -3267,7 +3167,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/5aa0a63e-37e6-4472-87ae-f69d659b68d9",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nandana Suresh",
@@ -3277,7 +3177,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/4d31e613-22ec-4522-a4c2-0f650ac29dbc",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "akshay k baburaj",
@@ -3287,7 +3187,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e0d3b9cc-7df6-41fd-99a3-8594acf9106e",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Minnal Arora",
@@ -3297,7 +3197,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://run.qwiklabs.com/public_profiles/74b8b575-a705-4fd2-aaa8-4fe45f6c31c0",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Arjun A",
@@ -3307,7 +3207,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/0bb470ae-3d02-477c-9214-91841434f6ae",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SHAHAM AHAMMED K",
@@ -3317,7 +3217,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/a94cc110-a17c-4483-b176-7ff2e58c3101",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ANTONY GODWIN S",
@@ -3327,7 +3227,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/55653588-7680-4270-b62e-d804ea2ab4f0",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Abhijith TV",
@@ -3337,7 +3237,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2cf2e34a-6e9f-4c57-9473-ed407eddccac",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "anirudh mv",
@@ -3347,7 +3247,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/ea943038-8fd3-4e10-9718-6a75818f8718",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ABDUL BASITH",
@@ -3357,7 +3257,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b1eae526-82cc-4f6f-bb88-cdd1d10df4ac",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "shivangi priya",
@@ -3367,7 +3267,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/7fffba7e-e2a8-49a8-a7da-78bd073ba039",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Lekshmipriya M",
@@ -3377,7 +3277,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/40c73869-d61a-4e3a-88ce-ac9ca6116108",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ABHINAND M S",
@@ -3387,7 +3287,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/8a7ed212-06e3-46c2-9d49-2c704254ba01",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ASWIN SASI",
@@ -3397,7 +3297,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/fdaef823-b5f8-4b97-861c-3d13e01d470f",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Refad anees k",
@@ -3407,7 +3307,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f19dd9b5-12c8-4667-8f76-741f7fef8908",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ANILA S",
@@ -3417,7 +3317,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/45de9566-87b1-4aff-adb5-0920d217a10c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Priya Patel",
@@ -3427,7 +3327,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/9335929d-a306-4248-9623-698268b37234",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "S Anandu",
@@ -3437,7 +3337,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/af1378f1-ebf2-4dea-8bca-eadc343af463",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "DHRUV GOUR",
@@ -3447,7 +3347,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/18ec060d-58ce-424f-a1cb-891c0a2552ae",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ABHISHEK K",
@@ -3457,7 +3357,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/81ecc2fa-6ad7-4e4e-a23d-95a25ac797e7",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nitin kumar",
@@ -3467,7 +3367,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/bf1ab67c-1779-4367-95d4-6d7619518e24",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Arjun V",
@@ -3477,7 +3377,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/970f58b7-5a63-42b8-be17-d07332fcf3c5",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Aaron Paul",
@@ -3487,7 +3387,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b8ecda58-ca6f-4096-8214-ced80646fa16",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SHANIL A J",
@@ -3497,7 +3397,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1da5fb4e-23c1-459c-a3bc-54c272beeaec",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Vincy",
@@ -3507,7 +3407,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/a87888f3-afb0-4cf8-85df-2c748ff57a09",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Sharon Joshi",
@@ -3517,7 +3417,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/dab696e9-3a23-4899-9233-6389a8dad85c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Munish Kumar",
@@ -3527,7 +3427,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b8af587e-a819-471f-9bb6-88a0e88167cf",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shivani Chauhan",
@@ -3537,7 +3437,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/b4c70535-d83c-43ed-96b1-8c25fb2a8dbd",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Thejaswini B",
@@ -3547,7 +3447,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6d75b79f-e345-4507-abd6-ced45ef7707d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nikhil S Ashok",
@@ -3557,7 +3457,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/cb534a42-1421-4ee0-bc9b-aa9c85810bc5",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Gouthaman K G",
@@ -3567,7 +3467,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/d523931d-b07f-46ce-a35c-38128034d2f1",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "BITHUN BABU S",
@@ -3577,7 +3477,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/614b4eeb-a46b-4092-b1b0-e36fe3f9863f",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "CHANDINI V C",
@@ -3587,7 +3487,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1b7e81a0-22d0-4a7c-9c34-25f87f5c4f79",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ASHIL JOHNSON",
@@ -3597,7 +3497,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e4038427-9d61-4fb8-8800-ed0f7469aaea",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Gokul S",
@@ -3607,7 +3507,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/8ab7874a-8caa-42f7-a27b-63bc03f2dc97",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Soyal Sunny",
@@ -3617,7 +3517,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f8f9fe6f-8682-4570-a7ff-50c7d4b35b72",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "GAYATHRI S NAIR",
@@ -3627,7 +3527,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/07a4c4e2-5875-4c3d-90a3-0e29e5ba70a5",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Jenit Abraham",
@@ -3637,7 +3537,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6fae088a-7eae-4ef8-9d4f-4cb73bae8e70",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Manish Shaji",
@@ -3647,17 +3547,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e036c5b1-d158-44d7-8638-cd4a3bf3f328",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
-    },
-    {
-        "Student_Name": "Muhammed Sajad A",
-        "Student_Email": "muhammedsajad236@gmail.com",
-        "Institution": "[Referred] Rajiv Gandhi Institute of Technology,Kottayam",
-        "Enrolment Date & Time": "Fri Apr 09 2021 10:03:33 GMT+0530 (India Standard Time)",
-        "Enrolment Status": "All Good",
-        "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/627ad5be-33d0-4cce-91ff-8f9579d3dd30",
-        "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Gladwin Santhosh",
@@ -3667,7 +3557,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/55e63ee3-8c31-490b-b7f0-82f4125b1ddf",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Ankit Anand",
@@ -3677,7 +3567,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/970010cb-3562-4714-a43d-4df66c62001d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "MANISHA KUMARI",
@@ -3687,7 +3577,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/00b03498-0ae5-4639-94bf-2669fc7e6a3b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Adhila Aboobakar",
@@ -3697,7 +3587,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/608cdf20-556f-4d49-8c52-bab5faccd380",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Muhammed Musthafa Shahal V",
@@ -3707,7 +3597,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b1f68136-400a-45ab-a90d-017eacdc20fd",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Guruvanditha",
@@ -3717,7 +3607,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/eac2f8e5-8475-4b8a-b382-8debc4eaf748",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Ajmal Latheef",
@@ -3727,7 +3617,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/dba77844-5f7c-47a3-9308-dbe1a0a7d05e",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Femina N",
@@ -3737,7 +3627,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b7731162-5e97-42a7-a3c1-8014dc85bbe2",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Juhil koshiya",
@@ -3747,7 +3637,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/2431ad5b-0472-4aa0-ba14-e2befe9984df",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Shankaranaryanan S",
@@ -3757,7 +3647,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/6c683c3b-43c8-40f1-8114-d62d9773805d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Vishnumaya S Unni",
@@ -3767,7 +3657,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/a504abcd-b695-47a1-9b0b-4ca250e38ddd",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nandana Suresh",
@@ -3777,7 +3667,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1ab5c85a-4f6b-4371-9557-3c618986bbae",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Adeena sathyachandran pt",
@@ -3787,7 +3677,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/c7cf234a-6fc8-4594-b9af-806b92e504d1",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Athira . P",
@@ -3797,7 +3687,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/a2a63307-03ac-4f6e-a67f-bac6a89d52e6",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Vishnu kv",
@@ -3807,7 +3697,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/ec790529-3749-4b10-a8b3-dae72ec13282",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Afnan A",
@@ -3817,7 +3707,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/f821e2b4-8608-4d6a-9430-3706503f2a00",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Nagavaishnavi K",
@@ -3827,7 +3717,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/24a5ccc2-ce18-437c-8463-c6ca2e6ff08d",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "ANJALI KRISHNA",
@@ -3837,7 +3727,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/de8ed326-b515-470f-adf7-e9f16298251e",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Siddhardh.R.Nair",
@@ -3847,7 +3737,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/cefc5f01-6d19-4e56-9589-8cb97b3018e5",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Swathi Janardhanan p",
@@ -3857,7 +3747,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/49b27486-8d5a-4236-9bc4-fe4b9f4e5ff4",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Harikrishnan B",
@@ -3867,7 +3757,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://www.qwiklabs.com/public_profiles/1ebf285d-78b2-4b24-a6d4-cfae1666b25c",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Adarsh S",
@@ -3877,7 +3767,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/82dcf7dd-6877-4661-b2ff-2609964dea2f",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Apoorav singh",
@@ -3887,7 +3777,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/1c95c203-4dc2-420d-8249-8afa1b6fb93b",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "SHEIK AHSAN",
@@ -3897,7 +3787,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/e0eff4b4-a333-4fb2-b5fb-55e1c3893c96",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "V Anandhukrishna",
@@ -3907,7 +3797,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google-run.qwiklabs.com/public_profiles/49dbd722-fa49-45b7-8723-3de1e8478629",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Dani Yesudasan",
@@ -3917,7 +3807,7 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/cf5d23ec-66f4-45d9-a724-ec2647fe2c14",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     },
     {
         "Student_Name": "Arya raj",
@@ -3927,6 +3817,6 @@
         "Enrolment Status": "All Good",
         "Qwiklabs_Profile_URL": "https://google.qwiklabs.com/public_profiles/b0a446b1-aa33-4dfc-8d2e-30cb52a3e653",
         "Quests_Completed": "0",
-        "Skill_Badges_Completed": "1"
+        "Skill_Badges_Completed": "0"
     }
 ]

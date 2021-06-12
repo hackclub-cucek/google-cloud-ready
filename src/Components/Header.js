@@ -8,10 +8,10 @@ const Header = () => {
       <HeaderImg>
         <Image src={logo} alt='vikings' />
         <Headerh1>
-          This is the Final Update 🚀
+        Report after Validation Check by Google is Updated 🚀
       </Headerh1>
         <Headerh3>
-          Attend The Wrap-Up Session Today @3:30 PM IST For The Next Steps
+        Watch The Video For The Next Steps
           <br />
           <br />
         </Headerh3>
