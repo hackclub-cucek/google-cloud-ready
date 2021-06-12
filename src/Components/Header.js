@@ -8,7 +8,7 @@ const Header = () => {
       <HeaderImg>
         <Image src={logo} alt='vikings' />
         <Headerh1>
-        Report after Validation Check by Google is Updated 🚀
+        Report After Validation Check by Google is Updated 🚀
       </Headerh1>
         <Headerh3>
         Watch The Video For The Next Steps
